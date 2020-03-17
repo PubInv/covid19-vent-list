@@ -13,12 +13,14 @@ Probably best state of buildability at the the time of this writing.
 
 [OPEN LUNG Low Resource Ventilator Project - IN PROGRESS](https://gitlab.com/TrevorSmale/low-resource-ambu-bag-ventilor)
 
+Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email.
+
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
 A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design.
 
 
-Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. 
+
 
 [The Pandemic Ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/)
 
