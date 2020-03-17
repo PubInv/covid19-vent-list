@@ -34,6 +34,10 @@ An update of the previous project. No known open-source repo at present.
 
 A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
+[Simple device from www.POMO.cl](https://www.facebook.com/groups/670932227050506/permalink/675264606617268/?app=fbl)
+
+Nice video, possibly nice control, no obvious link to replicatable design documents.
+
 
 # Resources
 
