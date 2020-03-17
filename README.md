@@ -53,3 +53,5 @@ Working prototype, currently active.
 This important document suggests that in the case of a severe epidemic, the US will bottleneck on have enough people trained on ventilators (but also not have enough ventilators, or beds.)
 
 [Internet Book of Critical Care (IBCC) : COVID-19](https://emcrit.org/ibcc/covid19/)
+
+[Covid-19 Research and Reports Esp. WRT Modeling](https://covid.idmod.org/#/ResearchandReports)
