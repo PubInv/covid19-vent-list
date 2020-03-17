@@ -38,6 +38,10 @@ A valuable and educational video, open in spirit. (Note: this does not provide p
 
 Nice video, possibly nice control, no obvious link to replicatable design documents.
 
+[MIT Low Cost Ventilator](https://github.com/RuairiSpain/openVentilator)
+
+Some work from MIT?  Have not had time to evaluate.
+
 
 # Resources
 
