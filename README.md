@@ -7,9 +7,15 @@ A list of valuabe resources exists below this list.
 
 # Projects
 
+[Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
+
+Probably best state of buildability at the the time of this writing.
+
 [OPEN LUNG Low Resource Ventilator Project - IN PROGRESS](https://gitlab.com/TrevorSmale/low-resource-ambu-bag-ventilor)
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. 
+
+
 
 
 # Resources
