@@ -48,4 +48,8 @@ Working prototype, currently active.
 
 # Resources
 
+[U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
 
+This important document suggests that in the case of a severe epidemic, the US will bottleneck on have enough people trained on ventilators (but also not have enough ventilators, or beds.)
+
+[Internet Book of Critical Care (IBCC) : COVID-19](https://emcrit.org/ibcc/covid19/)
