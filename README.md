@@ -42,6 +42,9 @@ Nice video, possibly nice control, no obvious link to replicatable design docume
 
 Some work from MIT?  Have not had time to evaluate.
 
+[Pandemic Ventilator Project](https://panvent.blogspot.com/2008/02/test-of-pandemic-ventilator-with.html)
+
+Working prototype, currently active.
 
 # Resources
 
