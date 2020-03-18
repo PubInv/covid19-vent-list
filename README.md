@@ -46,6 +46,14 @@ Some work from MIT?  Have not had time to evaluate.
 
 Working prototype, currently active.
 
+[Dr. Mujeeb ur Rahman design ](http://www.technologyreview.pk/pakistani-engineer-braves-tragedy-to-develop-low-cost-ventilator/)
+
+Unclear if the design is published. Good data collection.
+
+[Rice OEDK Design](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
+
+A high-quality student project, input into Open Lung, possible not actionable.
+
 # Resources
 
 [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
@@ -57,3 +65,7 @@ This important document suggests that in the case of a severe epidemic, the US w
 [Internet Book of Critical Care (IBCC) : COVID-19](https://emcrit.org/ibcc/covid19/)
 
 [Covid-19 Research and Reports Esp. WRT Modeling](https://covid.idmod.org/#/ResearchandReports)
+
+[Open source ventilator](https://docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/preview?pli=1#heading=h.l93gl0t8fdvh)
+
+A great overall working doucment from the people at HelpfulEngineering.
