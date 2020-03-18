@@ -69,3 +69,5 @@ This important document suggests that in the case of a severe epidemic, the US w
 [Open source ventilator](https://docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/preview?pli=1#heading=h.l93gl0t8fdvh)
 
 A great overall working doucment from the people at HelpfulEngineering.
+
+[Indicative Specification for a Rapidly Manufactured Ventilation System (RMVS)](https://www.britishchambers.org.uk/media/get/Specification%20For%20RMVS%20Challenge.pdf)
