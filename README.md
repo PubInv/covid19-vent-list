@@ -19,6 +19,9 @@ Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) fro
 
 A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design.
 
+[Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD)
+
+Functioning Abmu-bag based model. Not obviously open with no published design, but possibly easy to copy.
 
 
 
