@@ -11,7 +11,7 @@ A list of valuabe resources exists below this list.
 
 Probably best state of buildability at the the time of this writing.
 
-[Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/low-resource-ambu-bag-ventilor)
+[Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email.
 
