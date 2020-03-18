@@ -7,23 +7,29 @@ A list of valuabe resources exists below this list.
 
 # Projects
 
+## Blower/Fan based
+
 [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
 
 Probably best state of buildability at the the time of this writing.
+
+['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
+
+A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design. Nature of internale design not visible
+
+## Ambubag based
 
 [Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email.
 
-['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
+[Rice OEDK Design](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
 
-A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design.
+A high-quality student project, input into Open Lung, possible not actionable.
 
 [Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD)
 
 Functioning Abmu-bag based model. Not obviously open with no published design, but possibly easy to copy.
-
-
 
 [The Pandemic Ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/)
 
@@ -32,10 +38,6 @@ From 2007. Uses a relatively old and expensive programmable logic controller, bu
 [Hackaday Rex Ventilator V1](https://www.youtube.com/watch?v=pFnB-vOWQmU)
 
 An update of the previous project. No known open-source repo at present.
-
-[Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
-
-A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
 [Simple device from www.POMO.cl](https://www.facebook.com/groups/670932227050506/permalink/675264606617268/?app=fbl)
 
@@ -53,9 +55,16 @@ Working prototype, currently active.
 
 Unclear if the design is published. Good data collection.
 
-[Rice OEDK Design](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
+[Protofy Team OxyGEN]https://oxygen.protofy.xyz/)
 
-A high-quality student project, input into Open Lung, possible not actionable.
+Yet another Ambubag based design, using a plywood cam. Well-documented and buildable.
+
+## Cuirass/Negative Pressure/Iron Lung base
+
+[Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
+
+A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
+
 
 # Resources
 
