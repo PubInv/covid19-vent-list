@@ -83,3 +83,11 @@ This important document suggests that in the case of a severe epidemic, the US w
 A great overall working doucment from the people at HelpfulEngineering.
 
 [Indicative Specification for a Rapidly Manufactured Ventilation System (RMVS)](https://www.britishchambers.org.uk/media/get/Specification%20For%20RMVS%20Challenge.pdf)
+
+[Penn Medicine - COVID-19 Hospital Impact Model for Epidemics](https://penn-chime.phl.io/)
+
+A specific but valuable interactive model of hospital admissions
+
+[COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+
+Massive collection of resources, mostly academic papers AFAIK
