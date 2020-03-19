@@ -91,3 +91,5 @@ A specific but valuable interactive model of hospital admissions
 [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 
 Massive collection of resources, mostly academic papers AFAIK
+
+[OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
