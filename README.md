@@ -96,4 +96,4 @@ Massive collection of resources, mostly academic papers AFAIK
 
 [Specifications for simple open source mechanical ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview)
 
-[Coronavirus Tech Handbook]https://coronavirustechhandbook.com/ventilators
+[Coronavirus Tech Handbook](https://coronavirustechhandbook.com/ventilators)
