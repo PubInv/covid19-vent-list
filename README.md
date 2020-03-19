@@ -95,3 +95,5 @@ Massive collection of resources, mostly academic papers AFAIK
 [OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
 
 [Specifications for simple open source mechanical ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview)
+
+[Coronavirus Tech Handbook]https://coronavirustechhandbook.com/ventilators
