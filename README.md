@@ -97,3 +97,5 @@ Massive collection of resources, mostly academic papers AFAIK
 [Specifications for simple open source mechanical ventilator](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview)
 
 [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/ventilators)
+
+[FDA Guidance on Conduct of Clinical Trials of Medical Products during COVID-19 Pandemic: Guidance for Industry, Investigators, and Institutional Review Boards](https://www.fda.gov/media/136238/download)
