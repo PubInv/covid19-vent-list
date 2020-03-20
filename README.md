@@ -117,3 +117,6 @@ Massive collection of resources, mostly academic papers AFAIK
 [Virus Simulator](https://github.com/SilverLinings89/VirusSimulator)
 
 A useful resource for programmers as a model; data seems insufficient to accurately model COVID-19 at present although it has a preset for it.
+
+[Rapidly Manufactured Ventilator System (RMVS)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
+
