@@ -122,3 +122,7 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 [Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
 
+[Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+
+University of Florida, mostly specifications right now, but amoung the best set of quality specifications available.
+
