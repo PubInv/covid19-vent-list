@@ -69,6 +69,12 @@ A valuable and educational video, open in spirit. (Note: this does not provide p
 
 An impressive document, other status unknown at time of writing.
 
+## Test Equipment/Projects
+
+[Ventilator Test Fixture](https://github.com/PubInv/ventilator-test-lung-analyzer)
+
+My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability.  More test projects are needed!
+
 
 # Resources
 
