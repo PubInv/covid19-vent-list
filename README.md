@@ -65,6 +65,10 @@ Yet another Ambubag based design, using a plywood cam. Well-documented and build
 
 A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
+[The Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)
+
+An impressive document, other status unknown at time of writing.
+
 
 # Resources
 
