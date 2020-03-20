@@ -120,3 +120,5 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 [Rapidly Manufactured Ventilator System (RMVS)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
 
+[Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
+
