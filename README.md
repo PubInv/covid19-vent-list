@@ -109,3 +109,5 @@ Massive collection of resources, mostly academic papers AFAIK
 [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/ventilators)
 
 [FDA Guidance on Conduct of Clinical Trials of Medical Products during COVID-19 Pandemic: Guidance for Industry, Investigators, and Institutional Review Boards](https://www.fda.gov/media/136238/download)
+
+[Handbook COVID-19 Prevention and Treatment](https://www.wapa.com/assets/documents/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf)
