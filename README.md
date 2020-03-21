@@ -84,6 +84,20 @@ This important document suggests that in the case of a severe epidemic, the US w
 
 [Medical Ventilator System Basics](https://www.docdroid.net/gval5gc/medical-ventilator-system-basics-a-clinical-guide-by-yuan-lei.pdf)
 
+[Rapidly Manufactured Ventilator System (RMVS)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
+
+Note: This is an excellent read and great source of information. However, we have had an MD and respiratory therapist state that it should be taken with some skepticism as an actual minimum set of requirements, asserting that simpler designs with fewer features may also be extremely valuable in a resource-starved shortfall.
+
+[Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
+
+[Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+
+University of Florida, mostly specifications right now, but amoung the best set of quality specifications available:
+
+Overall Design Philosophy
+Open source for use worldwide and contributions from others worldwide
+(https://github.com/CSSALTlab/Open_Source_Ventilator.git)
+
 [Internet Book of Critical Care (IBCC) : COVID-19](https://emcrit.org/ibcc/covid19/)
 
 [Covid-19 Research and Reports Esp. WRT Modeling](https://covid.idmod.org/#/ResearchandReports)
@@ -118,27 +132,7 @@ Massive collection of resources, mostly academic papers AFAIK
 
 A useful resource for programmers as a model; data seems insufficient to accurately model COVID-19 at present although it has a preset for it.
 
-[Rapidly Manufactured Ventilator System (RMVS)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
 
-Note: This is an excellent read and great source of information. However, we have had an MD and respiratory therapist state that it should be taken with some skepticism as an actual minimum set of requirements, asserting that simpler designs with fewer features may also be extremely valuable in a resource-starved shortfall.
-
-[Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
-
-[Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
-
-
-University of Florida, mostly specifications right now, but amoung the best set of quality specifications available:
-
-Overall Design Philosophy
-Open source for use worldwide and contributions from others worldwide
-Adult ventilator (older adults at higher risk)
-Positive pressure volume control ventilation
-Intubated patient
-A bare bones, safe design is better than nothing and what “nothing” means
-The supplies and materials will be locally available at hardware stores
-The design(s) will be validated; validation will be documented and transparent; as an academic research lab, CSSALT can do some of the verification and validation
-The design(s) will be modular allowing different modules to be mixed and matched depending on local availability
-Dissemination via Internet and GitHub (https://github.com/CSSALTlab/Open_Source_Ventilator.git)
 
 # Interesting Articles of Unknwown Validity
 
