@@ -141,6 +141,10 @@ Massive collection of resources, mostly academic papers AFAIK
 
 A useful resource for programmers as a model; data seems insufficient to accurately model COVID-19 at present although it has a preset for it.
 
+[VENTILATOR ALLOCATION GUIDELINES](https://www.health.ny.gov/regulations/task_force/reports_publications/docs/ventilator_guidelines.pdf)
+
+This document sadly outlines how to triage ventilators when you don't have enough. It underscores the importance of this project.
+
 
 
 # Interesting Articles of Unknwown Validity
