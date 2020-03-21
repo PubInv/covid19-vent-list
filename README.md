@@ -75,6 +75,9 @@ An impressive document, other status unknown at time of writing.
 
 My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability.  More test projects are needed!
 
+# Challenges
+
+[Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
 
 # Resources
 
