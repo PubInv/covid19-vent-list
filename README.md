@@ -124,5 +124,18 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
 
-University of Florida, mostly specifications right now, but amoung the best set of quality specifications available.
+
+University of Florida, mostly specifications right now, but amoung the best set of quality specifications available:
+
+Overall Design Philosophy
+Open source for use worldwide and contributions from others worldwide
+Adult ventilator (older adults at higher risk)
+Positive pressure volume control ventilation
+Intubated patient
+A bare bones, safe design is better than nothing and what “nothing” means
+The supplies and materials will be locally available at hardware stores
+The design(s) will be validated; validation will be documented and transparent; as an academic research lab, CSSALT can do some of the verification and validation
+The design(s) will be modular allowing different modules to be mixed and matched depending on local availability
+Dissemination via Internet and GitHub (https://github.com/CSSALTlab/Open_Source_Ventilator.git)
+
 
