@@ -138,4 +138,8 @@ The design(s) will be validated; validation will be documented and transparent; 
 The design(s) will be modular allowing different modules to be mixed and matched depending on local availability
 Dissemination via Internet and GitHub (https://github.com/CSSALTlab/Open_Source_Ventilator.git)
 
+# Interesting Articles of Unknwown Validity
+
+[PulmCrit Wee- Could the best mode of noninvasive support for COVID-19 be… CPAP ??](https://emcrit.org/pulmcrit/cpap-covid/)
+
 
