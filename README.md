@@ -158,6 +158,8 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 This document sadly outlines how to triage ventilators when you don't have enough. It underscores the importance of this project.
 
+[U.S. FDA Standard And Requirements for Ventialtors](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=99)
+
 # FAQ
 
 Q: What is a test lung?
