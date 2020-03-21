@@ -91,6 +91,10 @@ This important document suggests that in the case of a severe epidemic, the US w
 
 Note: This is an excellent read and great source of information. However, we have had an MD and respiratory therapist state that it should be taken with some skepticism as an actual minimum set of requirements, asserting that simpler designs with fewer features may also be extremely valuable in a resource-starved shortfall.
 
+[Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
+
+This is a very important study in part because it allows us to predict ventilator need (in terms of days) for patients.
+
 [Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
 
 [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
