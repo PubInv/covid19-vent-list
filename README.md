@@ -1,9 +1,20 @@
-# covid19-vent-list
+# COVID-19 Ventilator Projects and Resources and FAQ
+
 A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
 PLEASE make pull requests or submit issues too add any project missing from this list.  The comments are entirely my own (possibly not well-informed) opinions and are meant to be helpful to those looking for quick information, not to disparage any project.
 
 A list of valuabe resources exists below this list.
+
+# Essential Reading
+
+I believe these are the three most essential documents to read first:
+
+[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
+[U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
+[OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
+
+
 
 # Projects
 
@@ -145,6 +156,19 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 This document sadly outlines how to triage ventilators when you don't have enough. It underscores the importance of this project.
 
+# FAQ
+
+Q: What is a test lung?
+
+A: A test lung is a [bag between two pieces of plastic](https://smile.amazon.com/gp/product/B0767RBQ1H/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) which approximates the resistance to inflation of a human lung. They cost about $200. They are used for testing ventilators.
+
+Q: What is barotrauma?
+
+A: [Ventilator Induced Barotrauma](https://en.wikipedia.org/wiki/Barotrauma#Ventilator-induced_barotrauma) is dangerous and common, and why you can't just use an untested ventilator on a human being. It is caused by too much or too little pressure, too much air flow speed, or even too much volume at low pressures.
+
+Q: What is a pneumatic ventilator?
+
+A: A pneumatic ventilator is powered primarily by pressurized air, rather than electronics.
 
 
 # Interesting Articles of Unknwown Validity
