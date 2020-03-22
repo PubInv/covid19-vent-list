@@ -131,6 +131,8 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [DIY Ventilators](http://diyventilators.com/)
 
+[Pak Innovation Club](http://www.pakengimed.com/ncov/)
+
 # Challenges
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
