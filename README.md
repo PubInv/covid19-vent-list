@@ -123,6 +123,18 @@ My own attempt to build a test apparatus that meaasures clinical suitability as 
 
 More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
+# Communities working on Open-Source Ventilators
+
+[EndCoronaVirus (NECSI)](https://www.endcoronavirus.org/)
+
+An associated with [NECSI](https://necsi.edu/), the New England Complex Systems Institute, effort with over 3000 volunteers in its [Slack team](necsi-edu.slack.com), many of them medical professionals. Channels for Ventilator work are prefixed "#response-ventilators".
+
+[HelpfulEngineering](https://www.helpfulengineering.org/)
+
+HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulengineering.slack.com). 
+
+[DIY Ventilators](http://diyventilators.com/)
+
 # Challenges
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
