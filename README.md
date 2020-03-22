@@ -20,11 +20,36 @@ I believe these are the three most essential documents to read first:
 
 # Projects
 
-## Blower/Fan/Pump based
+## Most Buildable Projects
+
+These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment.
+
 
 [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
 
-Probably best state of buildability at the the time of this writing.
+Probably best state of buildability at the the time of this writing. The link above is to the repo. The inventor, Johnny Lee, is actively improving the
+system as of March 21st, and has called for assistance. It has been pressure-tested.
+
+I recommend the community of makers and volunteers for open-source ventilator design offer Johnny Lee their full assistance.
+
+[Rice OEDK Design: ApolloBVM](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
+
+This project is well-documented. It is not clear that it has an active team working on it. The document above is dated April 19, 2019, and was almost certainly presented at the OEDK for 2019 at the end of the school year, possibly by graduating 
+Seniors. It has been pressure-tested. At present it states it only works for 6 hours without human intervention. It does not appear to have repository.
+
+[Protofy Team OxyGEN](https://oxygen.protofy.xyz/)
+
+This project was active as of March 16th, 2020. It has a [repo](https://github.com/ProtofyTeam/OxyGEN) of design documents.
+As of March 16th it has limited control capability and has not been pressure tested.
+
+
+
+
+
+## Blower/Fan/Pump based
+
+
+
 
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
@@ -49,7 +74,7 @@ Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email.
 
-[Rice OEDK Design](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
+
 
 A high-quality student project, input into Open Lung, possible not actionable.
 
@@ -81,7 +106,6 @@ Working prototype, currently active.
 
 Unclear if the design is published. Good data collection.
 
-[Protofy Team OxyGEN]https://oxygen.protofy.xyz/)
 
 Yet another Ambubag based design, using a plywood cam. Well-documented and buildable.
 
