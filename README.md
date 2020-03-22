@@ -68,13 +68,7 @@ Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer
 
 [Low-Cost Ventilator Wins Sloan Health Care Prize](https://www.medicaldesignandoutsourcing.com/low-cost-ventilator-wins-sloan-health-care-prize/)
 
-
 ### Ambubag based
-
-
-
-
-A high-quality student project, input into Open Lung, possible not actionable.
 
 [Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD)
 
