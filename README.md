@@ -16,7 +16,7 @@ I believe these are the three most essential documents to read first:
 
 [OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
 
-
+[Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist) speaking with Johnny Lee are also highly relevant.
 
 # Projects
 
