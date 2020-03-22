@@ -20,7 +20,7 @@ I believe these are the three most essential documents to read first:
 
 # Projects
 
-## Blower/Fan based
+## Blower/Fan/Pump based
 
 [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
 
@@ -29,6 +29,19 @@ Probably best state of buildability at the the time of this writing.
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
 A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design. Nature of internale design not visible
+
+
+[A low oxygen consumption pneumatic ventilator for emergency construction during a respiratory failure pandemic](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
+
+[Electric Blower Based Portable
+Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
+
+### Reports on Projects with No Designs
+
+[Saving Babies' Lives Starts With Aquarium Pumps And Ingenuity](https://www.npr.org/sections/health-shots/2014/01/03/259436844/saving-babies-lives-starts-with-aquarium-pumps-and-ingenuity)
+
+[Low-Cost Ventilator Wins Sloan Health Care Prize](https://www.medicaldesignandoutsourcing.com/low-cost-ventilator-wins-sloan-health-care-prize/)
+
 
 ## Ambubag based
 
@@ -159,6 +172,15 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 This document sadly outlines how to triage ventilators when you don't have enough. It underscores the importance of this project.
 
 [U.S. FDA Standard And Requirements for Ventialtors](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=99)
+
+[A Single Ventilator for Multiple Simulated
+Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197/j.aem.2006.05.009)
+
+[3D Printed Ventilator Manifold Might One Day Save Patients from Lung Damage](https://3dprint.com/45352/3d-printed-ventilator-manifold/)
+
+[PUMANI bubbleCPAP](http://hadleighhealthtechnologies.com/pumani-bcpap/) (for infants, commercial, but may be a useful low-cost reference point)
+
+[Retrofitting CPAP machines to reduce the ventilator shortage](https://docs.google.com/document/d/1uF6VbxwtKA2iuQtYNQJ-yW9clQXDOgtaTS5TvQ8Sk8k/edit?usp=sharing)
 
 # FAQ
 
