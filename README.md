@@ -43,13 +43,9 @@ This project was active as of March 16th, 2020. It has a [repo](https://github.c
 As of March 16th it has limited control capability and has not been pressure tested.
 
 
+## Projects Not Yet Buildable (March 21st, 2020)
 
-
-
-## Blower/Fan/Pump based
-
-
-
+### Blower/Fan/Pump based
 
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
@@ -61,14 +57,14 @@ A well-developed device reported on by Canadian Broadcasting Company. Creator (M
 [Electric Blower Based Portable
 Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
-### Reports on Projects with No Designs
+#### Reports on Projects with No Designs
 
 [Saving Babies' Lives Starts With Aquarium Pumps And Ingenuity](https://www.npr.org/sections/health-shots/2014/01/03/259436844/saving-babies-lives-starts-with-aquarium-pumps-and-ingenuity)
 
 [Low-Cost Ventilator Wins Sloan Health Care Prize](https://www.medicaldesignandoutsourcing.com/low-cost-ventilator-wins-sloan-health-care-prize/)
 
 
-## Ambubag based
+### Ambubag based
 
 [Open Source Ventilator - OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
 
@@ -109,7 +105,7 @@ Unclear if the design is published. Good data collection.
 
 Yet another Ambubag based design, using a plywood cam. Well-documented and buildable.
 
-## Cuirass/Negative Pressure/Iron Lung base
+### Cuirass/Negative Pressure/Iron Lung base
 
 [Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
 
@@ -123,7 +119,9 @@ An impressive document, other status unknown at time of writing.
 
 [Ventilator Test Fixture](https://github.com/PubInv/ventilator-test-lung-analyzer)
 
-My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability.  More test projects are needed!
+My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
+
+More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
 # Challenges
 
