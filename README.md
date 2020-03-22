@@ -28,7 +28,7 @@ These three projects are, in our humble opinion, the closest to being actually b
 [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
 
 Probably best state of buildability at the the time of this writing. The link above is to the repo. The inventor, Johnny Lee, is actively improving the
-system as of March 21st, and has called for assistance. It has been pressure-tested.
+system as of March 21st, and has called for assistance. It has been pressure-tested. It has a [wiki](https://github.com/jcl5m1/ventilator/wiki).
 
 I recommend the community of makers and volunteers for open-source ventilator design offer Johnny Lee their full assistance.
 
