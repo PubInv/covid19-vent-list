@@ -159,6 +159,8 @@ Note: This is an excellent read and great source of information. However, we hav
 
 This is a very important study in part because it allows us to predict ventilator need (in terms of days) for patients.
 
+[Manufacturing and COVID-19: How you or your organisation could help](https://www.ifm.eng.cam.ac.uk/manufacturing-and-covid-19-ways-your-company-could-help/)
+
 [Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
 
 [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
