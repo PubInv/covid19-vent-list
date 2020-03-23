@@ -98,6 +98,10 @@ Working prototype, currently active.
 
 Unclear if the design is published. Good data collection.
 
+[CoronavirusMakers](https://gitlab.com/coronavirusmakers)
+
+Currently active. I found it interesting. They are using 'maker' hardware (ie. Arduino MEGA, TB6600 driver, NEMA17 or NEMA23)
+
 
 Yet another Ambubag based design, using a plywood cam. Well-documented and buildable.
 
