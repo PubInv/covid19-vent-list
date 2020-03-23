@@ -220,6 +220,14 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Retrofitting CPAP machines to reduce the ventilator shortage](https://docs.google.com/document/d/1uF6VbxwtKA2iuQtYNQJ-yW9clQXDOgtaTS5TvQ8Sk8k/edit?usp=sharing)
 
+# Basic Educational Resources
+
+[Part 1 ](https://youtu.be/gk_Qf-JAL84)
+[Part 2 ](https://youtu.be/K0maLgTzIto)
+[Part 3 ](https://youtu.be/6Bdv7QhNNy4)
+[Part 4 ](https://youtu.be/KHpJ21UWbhg)
+[Part 5 ](https://youtu.be/Jx7oeJKzI9g)
+
 # FAQ
 
 Q: What is a test lung?
