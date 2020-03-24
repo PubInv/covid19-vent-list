@@ -46,7 +46,9 @@ As of March 16th it has limited control capability and has not been pressure tes
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email. Highly organized, but not buildable at the time of this writing.
 
+[VentilAid](https://www.ventilaid.org/)
 
+Current prototype is pneumatic. 3D printed parts complete, but I can't find complete assembly instructions. They are working on a second electric prototoype.
 
 ## Projects Not Yet Buildable (March 21st, 2020)
 
