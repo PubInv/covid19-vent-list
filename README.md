@@ -48,7 +48,7 @@ Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) fro
 
 [VentilAid](https://www.ventilaid.org/)
 
-Current prototype is pneumatic. 3D printed parts complete, but I can't find complete assembly instructions. They are working on a second electric prototoype.
+Current prototype is pneumatic. 3D printed parts complete, but I can't find complete assembly instructions. They are working on a second electric prototype.
 
 ## Projects Not Yet Buildable (March 21st, 2020)
 
