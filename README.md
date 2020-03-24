@@ -66,9 +66,11 @@ A well-developed device reported on by Canadian Broadcasting Company. Creator (M
 [Electric Blower Based Portable
 Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
-[Open Source Pandemic Ventilator](https://www.gofundme.com/f/open-source-pandemic-ventilator)
 
-Online funding for development of an Open Source Ventilator. They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type.
+[The Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)
+[Open Source Pandemic Ventilator (GoFundMe for above)](https://www.gofundme.com/f/open-source-pandemic-ventilator) 
+
+Online funding for development of an Open Source Ventilator. They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type. Impressive document.
 
 #### Reports on Projects with No Designs
 
@@ -119,7 +121,7 @@ Yet another Ambubag based design, using a plywood cam. Well-documented and build
 
 A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
-[The Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)
+
 
 An impressive document, other status unknown at time of writing.
 
