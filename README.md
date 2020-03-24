@@ -66,6 +66,10 @@ A well-developed device reported on by Canadian Broadcasting Company. Creator (M
 [Electric Blower Based Portable
 Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
+[Open Source Pandemic Ventilator](https://www.gofundme.com/f/open-source-pandemic-ventilator)
+
+Online funding for development of an Open Source Ventilator. They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type.
+
 #### Reports on Projects with No Designs
 
 [Saving Babies' Lives Starts With Aquarium Pumps And Ingenuity](https://www.npr.org/sections/health-shots/2014/01/03/259436844/saving-babies-lives-starts-with-aquarium-pumps-and-ingenuity)
