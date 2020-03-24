@@ -44,7 +44,7 @@ Seniors. It has been pressure-tested. At present it states it only works for 6 h
 This project was active as of March 16th, 2020. It has a [repo](https://github.com/ProtofyTeam/OxyGEN) of design documents.
 As of March 16th it has limited control capability and has not been pressure tested.
 
-[Open Source Ventilator - OpenLung BVM Ventilator]https://opensourceventilator.ie/) [GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung)
+[Open Source Ventilator - OpenLung BVM Ventilator](https://opensourceventilator.ie/) [GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung)
 
 Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email. Highly organized, but not buildable at the time of this writing.
 
