@@ -238,6 +238,8 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 [Part 4 ](https://youtu.be/KHpJ21UWbhg)
 [Part 5 ](https://youtu.be/Jx7oeJKzI9g)
 
+[OpenSourceCoronavirusProjects](https://github.com/cyborg527/OpenSourceCoronavirusProjects?fbclid=IwAR2OFWCfl4kF2lXv1wW5laZlRPu4RcKs8NBkDOrSCcPAd0ONJIemClQrGdM) -- a large list of resources not specific to ventilators
+
 # FAQ
 
 Q: What is a test lung?
