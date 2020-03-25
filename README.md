@@ -1,31 +1,14 @@
 # COVID-19 Ventilator Projects and Resources and FAQ
 
-A list projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
+An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
 PLEASE make pull requests or submit issues too add any project missing from this list.  The comments are entirely my own (possibly not well-informed) opinions and are meant to be helpful to those looking for quick information, not to disparage any project.
 
-A list of valuabe resources exists below this list.
+# Evaluation of Known Projects
 
-# Essential Reading
+![March 24th Analysis](https://user-images.githubusercontent.com/5296671/77501541-57425900-6e26-11ea-9552-7ea7a4e7daf5.png)
 
-I believe these are the three most essential documents to read first:
-
-[Key Ventilaiton Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
-
-[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
-
-
-[U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
-
-[Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers) (Explains reuse and adaptations of exisiting devices.)
-
-[OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
-
-[Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist) speaking with Johnny Lee are also highly relevant.
-
-# Projects
-
-## Evaluation of Known Projects
+This data may be more easily viewed as a spreadsheet [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml).
 
 We would like to thank everyone who has contributed to this effort. In the interest of transparency
 and information for the community, we have analyzed all projects we are aware of in terms of criteria
@@ -46,16 +29,32 @@ may compromise, ventilators are life-critical, last-resort devices that may do m
 do not meet stringent requirements. We have largely followed the guidelines of the 
 [Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf) criteria set out by the UK.
 
-Our evaluation is a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml), included as an image here:
 
-![March 24th Analysis](https://user-images.githubusercontent.com/5296671/77501541-57425900-6e26-11ea-9552-7ea7a4e7daf5.png)
+
+
 
 It is our hope that this will always be out-of-date. That is, we hope projects move so fast that cannot keep up with updating
 their progress. We certainly intend no slight to any project. If you believe a project has made progress in category,
 is misevaluated, or a new project should be added, please open an issue.
 
+# Essential Reading
 
-## Most Buildable Projects
+I believe these are the three most essential documents to read first:
+
+[Key Ventilaiton Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
+
+[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf)
+
+
+[U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
+
+[Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers) (Explains reuse and adaptations of exisiting devices.)
+
+[OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
+
+[Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist) speaking with Johnny Lee are also highly relevant.
+
+# Most Buildable Projects
 
 These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment.
 
