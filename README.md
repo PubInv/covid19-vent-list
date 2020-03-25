@@ -95,6 +95,8 @@ Response to the COVID-19 Pandemics](https://arxiv.org/pdf/2003.10405.pdf)
 
 ### Blower/Fan/Pump based
 
+[MIT E-Vent](https://e-vent.mit.edu/) -- This looks like one of the most advance projects. Sadly it is somewhat closed at present, they do not actually offer designs, though they say they will.
+
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
 A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. Note that this has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design. Nature of internale design not visible
