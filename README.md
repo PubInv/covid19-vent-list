@@ -25,6 +25,29 @@ I believe these are the three most essential documents to read first:
 
 # Projects
 
+## Evaluation of Known Projects
+
+We would like to thank everyone who has contributed to this effort. In the interest of transparency
+and information for the community, we have analyzed all projects we are aware of in terms of criteria
+we believe are essential to successfully deploying an open-source ventilator during the COVID-19 pandemic.
+These seven attributes are:
+1. Openness
+1. Community Support
+1. Buildability
+1. Functionally Tested
+1. Reliability Tested
+1. COVID-19 Suitability
+1. Clinician Friendly
+Each of the projects below is evaluated on [5-point scale defined here](https://docs.google.com/document/d/e/2PACX-1vRl9yZ27KvslftcNvweHgH1A81pO8gHL62TWpY_VY-UELWdK9x-4-3hNw3DbkemClzExPsg8RfnxilP/pub).
+
+Our goal is not to rank projects, but to shed light on the state of readiness of these projects, and perhaps
+identify things that must be addressed before they can be deployable. Although in times of crises one
+may compromise, ventilators are life-critical, last-resort devices that may do more harm than good if they
+do not meet stringent requirements. We have largely followed the guidelines of the 
+[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf) criteria set out by the UK.
+
+
+
 ## Most Buildable Projects
 
 These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment.
