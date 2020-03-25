@@ -59,7 +59,9 @@ I believe these are the three most essential documents to read first:
 
 # Most Buildable Projects
 
-These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment.
+These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment, as far as can be determined.
+
+[Beatmungsgerät [Respirator]](https://devpost.com/software/diy-beatmungsgerat) - German language site, but appears to be in best state of openness, build reproducibility, monitoring and alarming. Reliability testing uncertain.
 
 
 [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)
