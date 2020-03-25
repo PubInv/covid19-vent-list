@@ -155,8 +155,7 @@ Unclear if the design is published. Good data collection.
 
 Currently active. I found it interesting. They are using 'maker' hardware (ie. Arduino MEGA, TB6600 driver, NEMA17 or NEMA23)
 
-
-Yet another Ambubag based design, using a plywood cam. Well-documented and buildable.
+[VentilatorPAL](https://freebreathing.org/) Pre-orderable for &euro 370. Claims will be open sourced March 29th. Has repo, but files in odd format (to me).
 
 ### Cuirass/Negative Pressure/Iron Lung base
 
