@@ -271,11 +271,18 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 # Basic Educational Resources
 
+Five videos on using Mechanical Ventilators:
+
 [Part 1 ](https://youtu.be/gk_Qf-JAL84)
+
 [Part 2 ](https://youtu.be/K0maLgTzIto)
+
 [Part 3 ](https://youtu.be/6Bdv7QhNNy4)
+
 [Part 4 ](https://youtu.be/KHpJ21UWbhg)
+
 [Part 5 ](https://youtu.be/Jx7oeJKzI9g)
+
 
 [OpenSourceCoronavirusProjects](https://github.com/cyborg527/OpenSourceCoronavirusProjects?fbclid=IwAR2OFWCfl4kF2lXv1wW5laZlRPu4RcKs8NBkDOrSCcPAd0ONJIemClQrGdM) -- a large list of resources not specific to ventilators
 
