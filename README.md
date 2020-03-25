@@ -184,6 +184,8 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Pak Innovation Club](http://www.pakengimed.com/ncov/)
 
+[Ventilator Crowd](https://www.ventilatorcrowd.org/) (They have a [repo](https://github.com/ventilatorcrowd/Ventilator-Crowd) with some analysis.)
+
 # Challenges
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
