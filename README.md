@@ -50,6 +50,10 @@ Our evaluation is a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX
 
 ![March 24th Analysis](https://user-images.githubusercontent.com/5296671/77501541-57425900-6e26-11ea-9552-7ea7a4e7daf5.png)
 
+It is our hope that this will always be out-of-date. That is, we hope projects move so fast that cannot keep up with updating
+their progress. We certainly intend no slight to any project. If you believe a project has made progress in category,
+is misevaluated, or a new project should be added, please open an issue.
+
 
 ## Most Buildable Projects
 
