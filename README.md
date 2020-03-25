@@ -85,6 +85,10 @@ Fully open (GPL). Aims to adopt bag valve masks, based on designs (not open) fro
 
 Current prototype is pneumatic. 3D printed parts complete, but I can't find complete assembly instructions. They are working on a second electric prototype.
 
+[Mechanical Ventilator Milano (MVM):
+A Novel Mechanical Ventilator Designed for Mass Scale Production in
+Response to the COVID-19 Pandemics](https://arxiv.org/pdf/2003.10405.pdf)
+
 ## Projects Not Yet Buildable (March 21st, 2020)
 
 ### Blower/Fan/Pump based
