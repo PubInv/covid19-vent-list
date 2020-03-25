@@ -233,6 +233,8 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Retrofitting CPAP machines to reduce the ventilator shortage](https://docs.google.com/document/d/1uF6VbxwtKA2iuQtYNQJ-yW9clQXDOgtaTS5TvQ8Sk8k/edit?usp=sharing)
 
+[Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) -- This is the famous Imperical College model that instigated social distancing in the UK and US. Although not focused on ventilators, it did focus on ICU beds, a closely related issue.
+
 # Basic Educational Resources
 
 [Part 1 ](https://youtu.be/gk_Qf-JAL84)
