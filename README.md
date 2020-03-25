@@ -48,7 +48,7 @@ do not meet stringent requirements. We have largely followed the guidelines of t
 
 Our evaluation is a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml), included as an image here:
 
-
+![March 24th Analysis](https://user-images.githubusercontent.com/5296671/77501541-57425900-6e26-11ea-9552-7ea7a4e7daf5.png)
 
 
 ## Most Buildable Projects
