@@ -157,6 +157,8 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [VentilatorPAL](https://freebreathing.org/) Pre-orderable for &euro 370. Claims will be open sourced March 29th. Has repo, but files in odd format (to me).
 
+[Oxford new report](https://www.youtube.com/watch?v=xdZtMgpxnPI) Yet another news report of a project. No information that it is open.
+
 ### Cuirass/Negative Pressure/Iron Lung base
 
 [Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
