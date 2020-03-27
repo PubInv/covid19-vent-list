@@ -199,7 +199,9 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
 
-# Challenges
+# Challenges and Calls for Papers
+
+[HardwareX: Special Issue on Open-Source COVID19 Medical Hardware](https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware)
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
 
