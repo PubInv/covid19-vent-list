@@ -44,7 +44,7 @@ I believe these are the three most essential documents to read first:
 
 [A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/drawings/d/1mlCYVD3G5e2y60MvLPkmnrMZrrT87vUPXndAbgI6MJE/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction.
 
-[Key Ventilaiton Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
+[Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
 [Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf)
 
