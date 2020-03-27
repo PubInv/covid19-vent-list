@@ -171,7 +171,7 @@ An impressive document, other status unknown at time of writing.
 
 ## Test Equipment/Projects
 
-[Ventilator Test Fixture](https://github.com/PubInv/ventilator-test-lung-analyzer)
+[VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)
 
 My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
 
