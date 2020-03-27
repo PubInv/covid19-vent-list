@@ -197,6 +197,8 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [#industryvirus](industryvsvirus.de) A German (and German language?) based LinkedIn group.
 
+[1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
+
 # Challenges
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
