@@ -161,6 +161,11 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [OpenBreath Italy](https://www.openbreath.it/en/) Sadly not an open design; claims good progress but hard to tell.
 
+## Fluid-based
+
+[YACoVV - Yet Another (SARS-)CoV(-2)Ventilator](https://github.com/auenkind/YACoVV)
+Focuses on the pressure regulating part with an unconventional but very effective solution
+
 ### Cuirass/Negative Pressure/Iron Lung base
 
 [Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
