@@ -159,6 +159,8 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [Oxford new report](https://www.youtube.com/watch?v=xdZtMgpxnPI) Yet another news report of a project. No information that it is open.
 
+[OpenBreath Italy](https://www.openbreath.it/en/) Sadly not an open design; claims good progress but hard to tell.
+
 ### Cuirass/Negative Pressure/Iron Lung base
 
 [Cuirass Ventilator the DIY way](https://www.youtube.com/watch?v=pvrUQCMa3a8&feature=youtu.be)
