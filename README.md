@@ -201,7 +201,7 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 # Challenges and Calls for Papers
 
-[HardwareX: Special Issue on Open-Source COVID19 Medical Hardware](https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware)
+[HardwareX: Special Issue on Open-Source COVID19 Medical Hardware](https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware) (Submission deadline June 1st, 2020)
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
 
