@@ -42,7 +42,7 @@ is misevaluated, or a new project should be added, please open an issue.
 
 I believe these are the three most essential documents to read first:
 
-[A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/drawings/d/1mlCYVD3G5e2y60MvLPkmnrMZrrT87vUPXndAbgI6MJE/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction.
+[A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction.
 
 [Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
