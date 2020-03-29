@@ -294,6 +294,7 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) -- This is the famous Imperial College model that instigated social distancing in the UK and US. Although not focused on ventilators, it did focus on ICU beds, a closely related issue.
 
 [Top 10 Innovative Israeli tech for COVID-19](https://socialimpactil.com/corona-virus/)
+[Alternative Ventilation](https://github.com/PubInv/covid19-vent-list/blob/master/resources_unvetted/AlternativeVentilation5.pdf) (Provided by Ori Avihail).
 
 # Basic Educational Resources
 
