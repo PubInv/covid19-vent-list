@@ -180,7 +180,7 @@ An impressive document, other status unknown at time of writing.
 
 [VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)
 
-My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
+My own attempt to build a test apparatus that measures clinical suitability as well as reliability. Project is just beginning.
 
 More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
