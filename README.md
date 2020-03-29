@@ -296,6 +296,8 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 [Top 10 Innovative Israeli tech for COVID-19](https://socialimpactil.com/corona-virus/)
 [Alternative Ventilation](https://github.com/PubInv/covid19-vent-list/blob/master/resources_unvetted/AlternativeVentilation5.pdf) (Provided by Ori Avihail).
 
+[Mechanical Ventilators in US Acute Care Hospitals](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=Mechanical+Ventilators+in+US+Acute+Care+Hospitals&btnG= ) A valuable resource, but behind a paywall, this is the Google Scholar Citation.
+
 # Basic Educational Resources
 
 Five videos on using Mechanical Ventilators:
