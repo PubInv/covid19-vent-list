@@ -293,6 +293,8 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) -- This is the famous Imperical College model that instigated social distancing in the UK and US. Although not focused on ventilators, it did focus on ICU beds, a closely related issue.
 
+[Thomas Manufacturing Resources for Manufacturers](https://help.thomasnet.com/coronavirus-resource-hub) (This is not specific to ventilators.)
+
 # Basic Educational Resources
 
 Five videos on using Mechanical Ventilators:
