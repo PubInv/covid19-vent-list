@@ -8,7 +8,7 @@ PLEASE make pull requests or submit issues too add any project missing from this
 
 ![March 28th Analysis](https://user-images.githubusercontent.com/5296671/77824808-4f5b1100-70d3-11ea-8c75-2e27993e875e.png)
 
-This image was update March 28th. This data may be more easily and currently viewed as a spreadsheet [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
+This image was update March 28th. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
 
 We would like to thank everyone who has contributed to this effort. In the interest of transparency
 and information for the community, we have analyzed all projects we are aware of in terms of criteria
@@ -59,7 +59,7 @@ I believe these are the three most essential documents to read first:
 
 # Most Buildable Projects
 
-These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, the some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment, as far as can be determined.
+These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment, as far as can be determined.
 
 [Beatmungsgerät [Respirator]](https://devpost.com/software/diy-beatmungsgerat) - German language site, but appears to be in best state of openness, build reproducibility, monitoring and alarming. Reliability testing uncertain.
 
@@ -248,7 +248,7 @@ Open source for use worldwide and contributions from others worldwide
 
 [Open source ventilator](https://docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/preview?pli=1#heading=h.l93gl0t8fdvh)
 
-A great overall working doucment from the people at HelpfulEngineering.
+A great overall working document from the people at HelpfulEngineering.
 
 [Indicative Specification for a Rapidly Manufactured Ventilation System (RMVS)](https://www.britishchambers.org.uk/media/get/Specification%20For%20RMVS%20Challenge.pdf)
 
@@ -280,7 +280,7 @@ A useful resource for programmers as a model; data seems insufficient to accurat
 
 This document sadly outlines how to triage ventilators when you don't have enough. It underscores the importance of this project.
 
-[U.S. FDA Standard And Requirements for Ventialtors](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=99)
+[U.S. FDA Standard And Requirements for Ventilators](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=99)
 
 [A Single Ventilator for Multiple Simulated
 Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197/j.aem.2006.05.009)
@@ -291,9 +291,7 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Retrofitting CPAP machines to reduce the ventilator shortage](https://docs.google.com/document/d/1uF6VbxwtKA2iuQtYNQJ-yW9clQXDOgtaTS5TvQ8Sk8k/edit?usp=sharing)
 
-[Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) -- This is the famous Imperical College model that instigated social distancing in the UK and US. Although not focused on ventilators, it did focus on ICU beds, a closely related issue.
-
-[Thomas Manufacturing Resources for Manufacturers](https://help.thomasnet.com/coronavirus-resource-hub) (This is not specific to ventilators.)
+[Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) -- This is the famous Imperial College model that instigated social distancing in the UK and US. Although not focused on ventilators, it did focus on ICU beds, a closely related issue.
 
 # Basic Educational Resources
 
