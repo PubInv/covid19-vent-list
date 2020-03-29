@@ -204,7 +204,9 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
 
-[1M Ventilators](https://1mventilators.com/) Note: These two projects have almost the same name, but are different, I think. 
+[1M Ventilators](https://1mventilators.com/) Note: These two projects have almost the same name, but are different, I think.
+
+[Global Ventilator & PPE DIY Collaboration](https://j.mp/C19diyProjects) An international group using WhatsApp for communication. May have projects soon.
 
 # Challenges and Calls for Papers
 
