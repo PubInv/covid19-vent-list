@@ -298,6 +298,8 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Mechanical Ventilators in US Acute Care Hospitals](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=Mechanical+Ventilators+in+US+Acute+Care+Hospitals&btnG= ) A valuable resource, but behind a paywall, this is the Google Scholar Citation.
 
+[Frontier Tech 4 COVID Action: 10 things we’ve learnt about ventilators for emerging markets](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-10-things-weve-learnt-about-ventilators-for-emerging-markets-c9eeaf2908ee) Avaluable essay, topical as of March 27th.
+
 # Basic Educational Resources
 
 Five videos on using Mechanical Ventilators:
