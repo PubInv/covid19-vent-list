@@ -322,7 +322,7 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 [Open Hardware COVID19](https://opensource.com/article/20/3/open-hardware-covid19) A news article talking about open hardware proejcts beyond ventilators but medically interesting.
 
 
-
+[A short list of relevant ISO standards described](https://docs.google.com/spreadsheets/d/1WmPpG8hsu2mlgI_rFDZl2zZMAPZdp-kboGi0jfIsrI4/edit#gid=2126274196)
 
 
 
