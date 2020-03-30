@@ -172,9 +172,7 @@ Focuses on the pressure regulating part with an unconventional but very effectiv
 
 A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
-
-
-An impressive document, other status unknown at time of writing.
+[Cuirass Ventilator](https://github.com/jps2000/Cuirass-Ventilator)
 
 ## Test Equipment/Projects
 
