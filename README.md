@@ -23,6 +23,7 @@ These seven attributes are:
 1. Clinician Friendly
 
 Each of the projects is evaluated on [5-point scale defined here](https://docs.google.com/document/d/e/2PACX-1vRl9yZ27KvslftcNvweHgH1A81pO8gHL62TWpY_VY-UELWdK9x-4-3hNw3DbkemClzExPsg8RfnxilP/pub) on each of these attributes.
+Uses this [link](https://docs.google.com/document/d/1lWXCij-7yrbWUJJx-y4d6dREdYaTkb62iOZDTDbRi0I/edit?usp=sharing) to comment on those attributes.
 
 Our goal is not to rank projects, but to shed light on the state of readiness of these projects, and perhaps
 identify things that must be addressed before they can be deployable. Although in times of crises one
