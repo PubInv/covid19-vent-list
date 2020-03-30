@@ -227,6 +227,8 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Opens Source COVID-19 Medical Supplies](https://www.facebook.com/groups/opensourcecovid19medicalsupplies) An excellent resources for supplies in general (focues more on PPE than ventilators)
 
+[Give a Breath - Challenge](https://give-a-breath-challenge.innosabi.com/) Appears to be both a challenge and a community. Opened applications March 25th, judging for second phase April 3rd.
+
 # Resources
 
 [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
