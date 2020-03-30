@@ -98,6 +98,8 @@ Response to the COVID-19 Pandemics](https://arxiv.org/pdf/2003.10405.pdf)
 
 ### Blower/Fan/Pump based
 
+[AmboVent](https://20100.be/ad-hoc-ventilator/) A well-tested design by a large team from the Israeli Air Force. Definitely one to watch. They plan to release open-source plans on April 2nd, if this happens it may be a game-changing event.
+
 [MIT E-Vent](https://e-vent.mit.edu/) -- This looks like one of the most advance projects. Sadly it is somewhat closed at present, they do not actually offer designs, though they say they will.
 
 ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
@@ -162,9 +164,11 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [OpenBreath Italy](https://www.openbreath.it/en/) Sadly not an open design; claims good progress but hard to tell.
 
-## Piston based
+[Ad Hoc](https://20100.be/ad-hoc-ventilator/)
 
-[OpenVentilator](https://www.popsolutions.co/en_US/openventilator) -- Seems very well developed on first glance.
+## Bellows based
+
+[OpenVentilator](https://www.popsolutions.co/en_US/openventilator) -- Seems very well developed on first glance. Uses very accessible parts. With more testing could be successful.
 
 ## Fluid-based
 
