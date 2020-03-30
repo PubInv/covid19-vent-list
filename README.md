@@ -180,7 +180,7 @@ An impressive document, other status unknown at time of writing.
 
 [VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)
 
-My own attempt to build a test apparatus that measures clinical suitability as well as reliability. Project is just beginning.
+My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
 
 More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
@@ -200,7 +200,7 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Ventilator Crowd](https://www.ventilatorcrowd.org/) (They have a [repo](https://github.com/ventilatorcrowd/Ventilator-Crowd) with some analysis.)
 
-[#industryvirus](industryvsvirus.de) A German (and German language?) based LinkedIn group.
+[#industryvirus](industryvsvirus.de) A German (and German language?) based [LinkedIn](https://www.linkedin.com/groups/8918186/) group. There is also a [slack](https://wirvsvirus.slack.com/archives/G010J7X703G) group.
 
 [1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
 
