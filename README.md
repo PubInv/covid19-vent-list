@@ -217,6 +217,8 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [#EngineersAssemble](https://engineersassemble.tribe.so/)
 
+[The Ventilator Project](https://theventilatorproject.org/) Has a gofundme.
+
 # Challenges and Calls for Papers
 
 [HardwareX: Special Issue on Open-Source COVID19 Medical Hardware](https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware) (Submission deadline June 1st, 2020)
