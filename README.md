@@ -369,4 +369,8 @@ A: A pneumatic ventilator is powered primarily by pressurized air, rather than e
 
 [Automatic resucitators can server as effective "force multipliers" for emergency ventilaotry support in mass casualty scenarios](http://www.tecnomed.eu/vortran/file/Automatic%20Resuscitators%20Can%20Serve%20as%20Eff%20Force%20Multipliers_Aug%2006.pdf)
 
+# Request for Donations to Public Invention
+
+[Public Invention](https://www.pubinv.org/) is a small, all-volunteer 501(c)3 US public charity. Your [small donation](https://www.pubinv.org/donate/) is a stamp of approval for our work that will really help us.
+
 
