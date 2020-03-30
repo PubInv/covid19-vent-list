@@ -302,6 +302,18 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Frontier Tech 4 COVID Action: 10 things we’ve learnt about ventilators for emerging markets](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-10-things-weve-learnt-about-ventilators-for-emerging-markets-c9eeaf2908ee) Avaluable essay, topical as of March 27th.
 
+[https://opensource.com/article/20/3/open-hardware-covid19](https://opensource.com/article/20/3/open-hardware-covid19)
+
+[https://engineersassemble.tribe.so/](https://engineersassemble.tribe.so/)
+
+[https://www.facebook.com/groups/opensourcecovid19medicalsupplies](https://www.facebook.com/groups/opensourcecovid19medicalsupplies) An excellent resources for supplies in general (focues more on PPE than ventilators)
+
+[https://covid-global-hackathon.devpost.com/](https://covid-global-hackathon.devpost.com/)
+
+[https://www.covid-sprint.com/](https://www.covid-sprint.com/)  A Hebrew-langaguage website.
+
+
+
 # Basic Educational Resources
 
 Five videos on using Mechanical Ventilators:
