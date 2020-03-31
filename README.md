@@ -362,6 +362,7 @@ Five videos on using Mechanical Ventilators:
 
 [OpenSourceCoronavirusProjects](https://github.com/cyborg527/OpenSourceCoronavirusProjects?fbclid=IwAR2OFWCfl4kF2lXv1wW5laZlRPu4RcKs8NBkDOrSCcPAd0ONJIemClQrGdM) -- a large list of resources not specific to ventilators
 
+[Understanding Mechanical Respiration in 90 Minutes](https://diyventilators.discourse.group/t/understanding-mechanical-respiration-in-90-minutes/138)
 # FAQ
 
 Q: What is a test lung?
