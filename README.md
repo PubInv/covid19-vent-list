@@ -185,9 +185,13 @@ A valuable and educational video, open in spirit. (Note: this does not provide p
 
 ## Test Equipment/Projects
 
-[VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)
+[VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) is a [Public Invention](https://www.pubinv.org) project seeking to build an inline flow monitor for testing ventilators and for monitoring
+them in actual critial care usage.
 
 My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
+
+[COVID-19 Ventilator Validation Tests](https://github.com/PubInv/covid19-ventilator-validation-tests) is another [Public Invention](https://www.pubinv.org) project that provides a spreadsheet with ~200 validation tests for clinical 
+usability and suitability based on the UK [RMVS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf) standard.
 
 More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
