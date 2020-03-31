@@ -58,6 +58,7 @@ I believe these are the three most essential documents to read first:
 
 [Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist) speaking with Johnny Lee are also highly relevant.
 
+
 # Videos
 
 Stephen Kramer compiled and donated with a CC0 license a [spreadsheet](https://github.com/PubInv/covid19-vent-list/blob/master/Covid19_Projects_from_YouTube.xlsx) with 85 projects that have YouTube videos. We have not yet had time to cross reference this or integrate it with our Analysis spreadsheet or this list of projects and resources.
@@ -367,6 +368,9 @@ Five videos on using Mechanical Ventilators:
 [OpenSourceCoronavirusProjects](https://github.com/cyborg527/OpenSourceCoronavirusProjects?fbclid=IwAR2OFWCfl4kF2lXv1wW5laZlRPu4RcKs8NBkDOrSCcPAd0ONJIemClQrGdM) -- a large list of resources not specific to ventilators
 
 [Understanding Mechanical Respiration in 90 Minutes](https://diyventilators.discourse.group/t/understanding-mechanical-respiration-in-90-minutes/138)
+
+[Closed-Loop Control of Mechanical Ventilation: Description and Classification of Targeting Schemes](http://rc.rcjournal.com/content/56/1/85) -- I found this paper particular useful.
+
 # FAQ
 
 Q: What is a test lung?
