@@ -249,6 +249,10 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Give a Breath - Challenge](https://give-a-breath-challenge.innosabi.com/) Appears to be both a challenge and a community. Opened applications March 25th, judging for second phase April 3rd. Challenge has funding (for prize and a realization fund) of at least €1 million (additional partners and donors invited). Join in and help to save as many lives as possible!
 
+# Potential Grant Resources
+
+[COVID-19 Solutions Fund](https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/)
+
 # Resources
 
 [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
