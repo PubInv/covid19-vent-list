@@ -170,7 +170,7 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [Ad Hoc](https://20100.be/ad-hoc-ventilator/)
 
-[LCAEV](https://gitlab.com/PerAsperaAdAstra/lcaev) Site a bit unclear, look at the [design log](https://gitlab.com/PerAsperaAdAstra/lcaev/-/wikis/Design%20Log) to understand it
+[Low-Cost Automated Emergency Ventilator](https://gitlab.com/PerAsperaAdAstra/lcaev) Site a bit unclear, look at the [design log](https://gitlab.com/PerAsperaAdAstra/lcaev/-/wikis/Design%20Log) to understand it
 
 ## Systems for Multiple Patients
 
