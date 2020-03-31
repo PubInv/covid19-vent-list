@@ -170,6 +170,10 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [Ad Hoc](https://20100.be/ad-hoc-ventilator/)
 
+## Systems for Multiple Patients
+
+[Breathing Aid](https://www.breathing-aid.org/homeen) In several langauges, appers to be a large pneumatic circuit design for ventilator many patients at once. Seems to provide CPAP but not varaible bilevel ventilation. Might be good for people who don't require full ventilation in a field hospital.
+
 ## Bellows based
 
 [OpenVentilator](https://www.popsolutions.co/en_US/openventilator) -- Seems very well developed on first glance. Uses very accessible parts. With more testing could be successful.
