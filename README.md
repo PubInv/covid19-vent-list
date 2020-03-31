@@ -58,6 +58,10 @@ I believe these are the three most essential documents to read first:
 
 [Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist) speaking with Johnny Lee are also highly relevant.
 
+# Videos
+
+Stephen Kramer compiled and donated with a CC0 license a [spreadsheet](https://github.com/PubInv/covid19-vent-list/blob/master/Covid19_Projects_from_YouTube.xlsx) with 85 projects that have YouTube videos. We have not yet had time to cross reference this or integrate it with our Analysis spreadsheet or this list of projects and resources.
+
 # Most Buildable Projects
 
 These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment, as far as can be determined.
