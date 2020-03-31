@@ -46,7 +46,6 @@ Community Support
 Functional Testing
 
 0.  In Design Phase, Not listed/tested
-
 1. Makes a bag move
 1. Tested with a test lung
 1. Tested for pressure and volume limits, with breath rate control
@@ -56,7 +55,6 @@ Functional Testing
 Reliability Testing
 
 0.   No evidence
-
 1. Operates for one hour
 1. Operates for 12 hours
 1. Operates for 12 hours passing all functional test acceptably (low exception rate)
@@ -66,7 +64,6 @@ Reliability Testing
 COVID-19 Suitability  
 
 0.  In design phase/Not listed
-
 1. Operates with supplemental oxygen
 1. Pressure or volume control or both
 1. PEEP
@@ -76,7 +73,6 @@ COVID-19 Suitability
 Clinician Friendly
 
 0.   Unknown controls
-
 1. No controls
 1. Breath rate and volume control, standard ports
 1. Breath rate, volume and pressure control easy to set, standard ports, clear external labeling graphically and in the language of choice
