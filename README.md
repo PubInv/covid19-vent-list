@@ -6,9 +6,11 @@ PLEASE make pull requests or submit issues too add any project missing from this
 
 # Evaluation of Known Projects
 
+![April 1 top Projects](https://user-images.githubusercontent.com/5296671/78171295-da147680-7419-11ea-8bf5-2b5d16eee6d1.png)
+
 ![March 28th Analysis](https://user-images.githubusercontent.com/5296671/77824808-4f5b1100-70d3-11ea-8c75-2e27993e875e.png)
 
-This image was update March 28th. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
+This image was updated April 1st, 2020. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
 
 We would like to thank everyone who has contributed to this effort. In the interest of transparency
 and information for the community, we have analyzed all projects we are aware of in terms of criteria
