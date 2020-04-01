@@ -67,6 +67,9 @@ Stephen Kramer compiled and donated with a CC0 license a [spreadsheet](https://g
 
 These three projects are, in our humble opinion, the closest to being actually buildable by a third party. We do not believe they are ready to built or manufactured in quantity, and have only had the lightest of testing. Furthermore, the COVID-19 disease requires critical care in an ICU; these designs may be excellent for patients with other diseases, such as acute trauma. However, some medical professionals have asserted that more features are needed in the case of ARDS, a common complication of COVID-19, and patients may requires ventilation for many days. These designs are in a poor state of readiness for multi-day treatment, as far as can be determined.
 
+
+[AmboVent](https://1nn0v8ter.rocks/AmboVent-1690-108) A well-tested design by a large team from the Israeli Air Force. Definitely one to watch. This is the number one low-cost, easily built project since their release of their [plans and code](https://github.com/AmboVent/AmboVent)  on April 2nd! 
+
 [Beatmungsgerät [Respirator]](https://devpost.com/software/diy-beatmungsgerat) - German language site, but appears to be in best state of openness, build reproducibility, monitoring and alarming. Reliability testing uncertain.
 
 
@@ -103,7 +106,6 @@ Response to the COVID-19 Pandemics](https://arxiv.org/pdf/2003.10405.pdf)
 
 ### Blower/Fan/Pump based
 
-[AmboVent](https://20100.be/ad-hoc-ventilator/) A well-tested design by a large team from the Israeli Air Force. Definitely one to watch. They plan to release open-source plans on April 2nd, if this happens it may be a game-changing event.
 
 [MIT E-Vent](https://e-vent.mit.edu/) -- This looks like one of the most advance projects. Sadly it is somewhat closed at present, they do not actually offer designs, though they say they will.
 
