@@ -203,6 +203,8 @@ them in actual critial care usage.
 
 My own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
 
+[Ventilator Inline Sensor Package](https://hackaday.io/project/170622-visp-ventilator-inline-sensor-package)
+
 [COVID-19 Ventilator Validation Tests](https://github.com/PubInv/covid19-ventilator-validation-tests) is another [Public Invention](https://www.pubinv.org) project that provides a spreadsheet with ~200 validation tests for clinical 
 usability and suitability based on the UK [RMVS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf) standard.
 
