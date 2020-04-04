@@ -11,7 +11,7 @@ PLEASE make pull requests or submit issues too add any project missing from this
 This image was updated April 1st, 2020. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/1inYw5H4RiL0AC_J9vPWzJxXCdlkMLPBRdPgEVKF8DZw/edit?usp=sharing). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
 
 We would like to thank everyone who has contributed to this effort. In the interest of transparency
-and information for the community, we have analyzed all projects we are aware of in terms of criteria
+and information for the community, we have analyzed all projects we are aware of in terms of criteria 
 we believe are essential to successfully deploying an open-source ventilator during the COVID-19 pandemic.
 These seven attributes are:
 1. Openness
