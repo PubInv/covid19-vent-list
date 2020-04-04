@@ -196,6 +196,10 @@ A valuable and educational video, open in spirit. (Note: this does not provide p
 
 [Cuirass Ventilator](https://github.com/jps2000/Cuirass-Ventilator)
 
+## Related Therapeutic Projects
+
+[Ventialors SOS](https://www.ventilatorsos.com/) VentilatorsSOS is a Berkeley project to repurpos BiPAP and CPAP machines.
+
 ## Test Equipment/Projects
 
 [VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor) is a [Public Invention](https://www.pubinv.org) project seeking to build an inline flow monitor for testing ventilators and for monitoring
