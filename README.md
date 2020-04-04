@@ -348,9 +348,9 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 
 [Mechanical Ventilators in US Acute Care Hospitals](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=Mechanical+Ventilators+in+US+Acute+Care+Hospitals&btnG= ) A valuable resource, but behind a paywall, this is the Google Scholar Citation.
 
-[Frontier Tech 4 COVID Action: 10 things we’ve learnt about ventilators for emerging markets](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-10-things-weve-learnt-about-ventilators-for-emerging-markets-c9eeaf2908ee) Avaluable essay, topical as of March 27th.
+[Frontier Tech 4 COVID Action: 10 things we’ve learnt about ventilators for emerging markets](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-10-things-weve-learnt-about-ventilators-for-emerging-markets-c9eeaf2908ee) A valuable essay, topical as of March 27th.
 
-[Open Hardware COVID19](https://opensource.com/article/20/3/open-hardware-covid19) A news article talking about open hardware proejcts beyond ventilators but medically interesting.
+[Open Hardware COVID19](https://opensource.com/article/20/3/open-hardware-covid19) A news article talking about open hardware projects beyond ventilators but medically interesting.
 
 
 [A short list of relevant ISO standards described](https://docs.google.com/spreadsheets/d/1WmPpG8hsu2mlgI_rFDZl2zZMAPZdp-kboGi0jfIsrI4/edit#gid=2126274196)
