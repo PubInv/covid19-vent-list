@@ -8,7 +8,7 @@ PLEASE make pull requests or submit issues too add any project missing from this
 
 ![April 1st, Top Projects](https://user-images.githubusercontent.com/5296671/78171602-50b17400-741a-11ea-863d-a4adabeeb1d4.png)
 
-This image was updated April 1st, 2020. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
+This image was updated April 1st, 2020. This data may be more easily and currently viewed as a [spreadsheet](https://docs.google.com/spreadsheets/d/1inYw5H4RiL0AC_J9vPWzJxXCdlkMLPBRdPgEVKF8DZw/edit?usp=sharing). Please send me point-of-contact information for each project via an issue, and I will put it in this (very public) spreadsheet.
 
 We would like to thank everyone who has contributed to this effort. In the interest of transparency
 and information for the community, we have analyzed all projects we are aware of in terms of criteria
