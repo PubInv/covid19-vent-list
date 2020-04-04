@@ -52,7 +52,7 @@ I believe these are the three most essential documents to read first:
 
 [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
 
-[Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers) (Explains reuse and adaptations of exisiting devices.)
+[Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers) (Explains reuse and adaptations of existing devices.)
 
 [OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
 
@@ -165,7 +165,7 @@ Unclear if the design is published. Good data collection.
 
 Currently active. I found it interesting. They are using 'maker' hardware (ie. Arduino MEGA, TB6600 driver, NEMA17 or NEMA23)
 
-[VentilatorPAL](https://freebreathing.org/) Pre-orderable for &euro 370. Claims will be open sourced March 29th. Has repo, but files in odd format (to me).
+[VentilatorPAL](https://freebreathing.org/) Pre-orderable for &euro; 370. Claims will be open sourced March 29th. Has repo, but files in odd format (to me).
 
 [Oxford new report](https://www.youtube.com/watch?v=xdZtMgpxnPI) Yet another news report of a project. No information that it is open.
 
@@ -177,7 +177,7 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 ## Systems for Multiple Patients
 
-[Breathing Aid](https://www.breathing-aid.org/homeen) In several langauges, appers to be a large pneumatic circuit design for ventilator many patients at once. Seems to provide CPAP but not varaible bilevel ventilation. Might be good for people who don't require full ventilation in a field hospital.
+[Breathing Aid](https://www.breathing-aid.org/homeen) In several languages, appers to be a large pneumatic circuit design for ventilator many patients at once. Seems to provide CPAP but not varaible bilevel ventilation. Might be good for people who don't require full ventilation in a field hospital.
 
 ## Bellows based
 
@@ -195,10 +195,6 @@ Focuses on the pressure regulating part with an unconventional but very effectiv
 A valuable and educational video, open in spirit. (Note: this does not provide positive pressure, or the direct inclusion of oxygen. This would be a valuable part of a spectrum of solutions in a catastrophic situation.)
 
 [Cuirass Ventilator](https://github.com/jps2000/Cuirass-Ventilator)
-
-## Related Therapeutic Projects
-
-[Ventialors SOS](https://www.ventilatorsos.com/) VentilatorsSOS is a Berkeley project to repurpos BiPAP and CPAP machines.
 
 ## Test Equipment/Projects
 
@@ -218,7 +214,7 @@ More test projects are needed! If you know of a test project, please make a pull
 
 [EndCoronaVirus (NECSI)](https://www.endcoronavirus.org/)
 
-An associated with [NECSI](https://necsi.edu/), the New England Complex Systems Institute, effort with over 3000 volunteers in its [Slack team](necsi-edu.slack.com), many of them medical professionals. Channels for Ventilator work are prefixed "#response-ventilators".
+An associated with [NECSI](https://necsi.edu/), the New England Complex Systems Institute, effort with over 3000 volunteers in its [Slack team](https://necsi-edu.slack.com/), many of them medical professionals. Channels for Ventilator work are prefixed "#response-ventilators".
 
 [HelpfulEngineering](https://www.helpfulengineering.org/)
 
@@ -230,7 +226,7 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Ventilator Crowd](https://www.ventilatorcrowd.org/) (They have a [repo](https://github.com/ventilatorcrowd/Ventilator-Crowd) with some analysis.)
 
-[#industryvirus](industryvsvirus.de) A German (and German language?) based [LinkedIn](https://www.linkedin.com/groups/8918186/) group. There is also a [slack](https://wirvsvirus.slack.com/archives/G010J7X703G) group.
+[#industryvirus](https://industryvsvirus2.powerappsportals.com/) A German (and German language?) based [LinkedIn](https://www.linkedin.com/groups/8918186/) group. There is also a [slack](https://wirvsvirus.slack.com/archives/G010J7X703G) group.
 
 [1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
 
@@ -238,9 +234,9 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Global Ventilator & PPE DIY Collaboration](https://j.mp/C19diyProjects) An international group using WhatsApp for communication. May have projects soon.
 
-[#EngineersAssemble](https://engineersassemble.tribe.so/)
+[#EngineersAssemble](https://engineersassemble.tribe.so/feed/ventilators)
 
-[The Ventilator Project](https://theventilatorproject.org/) Has a gofundme.
+[The Ventilator Project](https://theventilatorproject.org/) Has a [gofundme](https://www.gofundme.com/f/the-ventilator-project).
 
 [VENTILATORS COLLABORATION NETWORK](https://soptechint.com/ventilators)
 
@@ -250,7 +246,7 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?t=c55DcF41nZeLDXfG6-Goyg)
 
-[ULTIMATE MEDICAL HACKATHON: HOW FAST CAN WE DESIGN AND DEPLOY AN OPEN SOURCE VENTILATOR?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
+[Ultimate Medical Hackathon: How fast can we design and deploy an open source ventilator?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
 
 [The Covid Sprint](https://www.covid-sprint.com/) 
 
