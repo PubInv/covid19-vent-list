@@ -135,7 +135,7 @@ Online funding for development of an Open Source Ventilator. They provide a Goog
 
 [Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD) and [his valuable document](https://docs.google.com/document/d/1FNRe2GS7ShhJAJu6Ogdl0OAjS0oLJZ-lkPjT1DSAhpI/edit?ts=5e79401f).
 
-Functioning Abmu-bag based model. Not obviously open with no published design, but possibly easy to copy.
+Functioning Ambu-bag based model. Not obviously open with no published design, but possibly easy to copy.
 
 [The Pandemic Ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/)
 
