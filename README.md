@@ -88,7 +88,14 @@ Seniors. It has been pressure-tested. At present it states it only works for 6 h
 [Protofy Team OxyGEN](https://oxygen.protofy.xyz/)
 
 This project was active as of March 16th, 2020. It has a [repo](https://github.com/ProtofyTeam/OxyGEN) of design documents.
-As of March 16th it has limited control capability and has not been pressure tested.
+As of March 16th it has limited control capability.  As of 5 April, there are two versions: ”IP" for large scale manufacturers and "M" for makers.  Version M is fully open source but the documents lag behind the version IP.  
+Version IP is a closed consortium of SEAT, protofy.xyz and others, it is my understanding that their documents will be filtered back into the ”M” documents.
+Version IP has passed animal trials and the Spanish government agreed hospital clinical trials with COVID19 patients.  
+COVID19 ICU patients in Barcelona are using the IP version as of 3 April, video and photos are on a number of news sites.  
+Government agreement includes SEAT ramping up their manufacturing line to 400 units a day.  
+The government/consortium plan is to rollout wider testing to more hospitals in Catalunya this week, from 6 April.  Human trials will continue this week.
+Recommend waiting to built version M until the documents are updated after feedback from clinical trails of version IP.
+Discord group: https://discord.gg/zDYmR5
 
 [Open Source Ventilator - OpenLung BVM Ventilator](https://opensourceventilator.ie/) [GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung)
 
