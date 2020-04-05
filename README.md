@@ -43,7 +43,9 @@ is misevaluated, or a new project should be added, please open an issue.
 
 I believe these are the three most essential documents to read first:
 
-[A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction.
+[A brief for engineers, by a doctor, on hacking a ventilator for surge capacity in Covid19 patients.](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit?usp=sharing) Written by Eric Schulz, MBBS, FANZDA, an anesthetist/anesthesiologist from Australia.
+
+[A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction, it is somewhat redundant with the above guide. Eric and I may attempt to harmonize them as we have time.
 
 [Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
