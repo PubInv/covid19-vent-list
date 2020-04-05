@@ -72,6 +72,13 @@ These three projects are, in our humble opinion, the closest to being actually b
 
 [AmboVent](https://1nn0v8ter.rocks/AmboVent-1690-108) A well-tested design by a large team from the Israeli Air Force. Definitely one to watch. This is the number one low-cost, easily built project since their release of their [plans and code](https://github.com/AmboVent/AmboVent)  on April 2nd! 
 
+[Rice OEDK Design: ApolloBVM](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
+
+This project is well-documented. It is not clear that it has an active team working on it. The document above is dated April 19, 2019, and was almost certainly presented at the OEDK for 2019 at the end of the school year, possibly by graduating 
+Seniors. It has been pressure-tested. At present it states it only works for 6 hours without human intervention. It does not appear to have repository.
+
+# Almost Buildable Projects
+
 [Beatmungsgerät [Respirator]](https://devpost.com/software/diy-beatmungsgerat) - German language site, but appears to be in best state of openness, build reproducibility, monitoring and alarming. Reliability testing uncertain.
 
 
@@ -81,11 +88,6 @@ Probably best state of buildability at the the time of this writing. The link ab
 system as of March 21st, and has called for assistance. It has been pressure-tested. It has a [wiki](https://github.com/jcl5m1/ventilator/wiki).
 
 I recommend the community of makers and volunteers for open-source ventilator design offer Johnny Lee their full assistance.
-
-[Rice OEDK Design: ApolloBVM](https://docs.google.com/document/d/1-DRXnVkJOlDCmvTzh-DgWDxeLSrZTiBYyH0ypzv8tNA/edit?usp=sharing)
-
-This project is well-documented. It is not clear that it has an active team working on it. The document above is dated April 19, 2019, and was almost certainly presented at the OEDK for 2019 at the end of the school year, possibly by graduating 
-Seniors. It has been pressure-tested. At present it states it only works for 6 hours without human intervention. It does not appear to have repository.
 
 [Protofy Team OxyGEN](https://oxygen.protofy.xyz/)
 
