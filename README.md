@@ -180,7 +180,7 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [Oxford new report](https://www.youtube.com/watch?v=xdZtMgpxnPI) Yet another news report of a project. No information that it is open.
 
-[OpenBreath Italy](https://www.openbreath.it/en/) Sadly not an open design; claims good progress but hard to tell.
+[OpenBreath Italy](https://www.openbreath.it/en/) Now with a repo. Just made their first prototype.
 
 [Ad Hoc](https://20100.be/ad-hoc-ventilator/)
 
@@ -245,9 +245,7 @@ HelpfulEngineering has over 12,000 volunteers in its [Slack team](helpfulenginee
 
 [#industryvirus](industryvsvirus.de) A German (and German language?) based [LinkedIn](https://www.linkedin.com/groups/8918186/) group. There is also a [slack](https://wirvsvirus.slack.com/archives/G010J7X703G) group.
 
-[1 million Ventilators Project](https://helpwithcovid.com/projects/13-1-million-ventilators)
-
-[1M Ventilators](https://1mventilators.com/) Note: These two projects have almost the same name, but are different, I think.
+[1 million Ventilators Project](https://1mventilators.com/) Large, active community. Best to contact through Discord. (https://discord.gg/g3kbSSb)
 
 [Global Ventilator & PPE DIY Collaboration](https://j.mp/C19diyProjects) An international group using WhatsApp for communication. May have projects soon.
 
