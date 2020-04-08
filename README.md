@@ -2,7 +2,7 @@
 
 An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
-PLEASE make pull requests or submit issues too add any project missing from this list.  The comments are entirely my own (possibly not well-informed) opinions and are meant to be helpful to those looking for quick information, not to disparage any project.
+PLEASE make pull requests or submit issues to add any project missing from this list.  The comments are entirely my own (possibly not well-informed) opinions and are meant to be helpful to those looking for quick information, not to disparage any project.
 
 # Evaluation of Known Projects
 
