@@ -136,6 +136,10 @@ Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer
 
 Online funding for development of an Open Source Ventilator. They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type. Impressive document.
 
+[Zephyr Ventilator](https://github.com/Julhh/Zephyr)
+
+Open source mechanical ventilator with the goal of reaching MHRA spec. 
+
 #### Reports on Projects with No Designs
 
 [Saving Babies' Lives Starts With Aquarium Pumps And Ingenuity](https://www.npr.org/sections/health-shots/2014/01/03/259436844/saving-babies-lives-starts-with-aquarium-pumps-and-ingenuity)
