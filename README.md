@@ -190,6 +190,10 @@ Currently active. I found it interesting. They are using 'maker' hardware (ie. A
 
 [Low-Cost Automated Emergency Ventilator](https://gitlab.com/PerAsperaAdAstra/lcaev) Site a bit unclear, look at the [design log](https://gitlab.com/PerAsperaAdAstra/lcaev/-/wikis/Design%20Log) to understand it
 
+https://www.kvue.com/article/news/health/coronavirus/coronavirus-ut-researchers-prototype-emergency-ventilator/269-1c767f51-3aef-4eb6-8c0b-4e2f058f0f2c
+
+[Austin Bridge Breathing Unit](https://thedailytexan.com/2020/04/07/university-researchers-develop-breathing-unit-to-help-combat-ventilator-shortage) Plans to open-source code after obtaining emergency FDA approval. Reported in the [news](https://www.kvue.com/article/news/health/coronavirus/coronavirus-ut-researchers-prototype-emergency-ventilator/269-1c767f51-3aef-4eb6-8c0b-4e2f058f0f2c).
+
 ## Systems for Multiple Patients
 
 [Breathing Aid](https://www.breathing-aid.org/homeen) In several langauges, appers to be a large pneumatic circuit design for ventilator many patients at once. Seems to provide CPAP but not varaible bilevel ventilation. Might be good for people who don't require full ventilation in a field hospital.
