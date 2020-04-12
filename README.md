@@ -45,6 +45,18 @@ I believe these are the three most essential documents to read first:
 
 [A brief for engineers, by a doctor, on hacking a ventilator for surge capacity in Covid19 patients.](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit?usp=sharing) Written by Dr. Eric Schulz, MBBS, FANZDA, an anesthetist/anesthesiologist from Australia.
 
+Dr. Schulz has now made it a 4-volume guide:
+
+[Vol. 1](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/mobilebasic)
+
+[Vol. 2](https://docs.google.com/document/d/1SBT8auegsJCKCVMBHFLWaVo8rKbs0zsJc3dDVAqeADE/mobilebasic)
+
+[Vol. 3](https://slack-redir.net/link?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1FBec-0GlKjwoPS68s653foEnVyghxbeuGxqAQiXMEew%2Fedit%3Fusp%3Dsharing&v=3)
+
+[Vol. 4](https://slack-redir.net/link?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1CmCRtK_f4hgo4RHnpn1sE981lPSzp8PU7A5Yu4urgz0%2Fedit%3Fusp%3Dsharing&v=3)
+
+
+
 [A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- This was written by me (Robert L. Read). It's my best attempt at an introduction, it is somewhat redundant with the above guide. Dr. Schulz and I may attempt to harmonize them as we have time.
 
 [Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
