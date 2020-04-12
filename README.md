@@ -53,7 +53,7 @@ Dr. Schulz has now made it a 4-volume guide:
 
 [Vol. 3](https://slack-redir.net/link?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1FBec-0GlKjwoPS68s653foEnVyghxbeuGxqAQiXMEew%2Fedit%3Fusp%3Dsharing&v=3)
 
-[Vol. 4](https://slack-redir.net/link?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1CmCRtK_f4hgo4RHnpn1sE981lPSzp8PU7A5Yu4urgz0%2Fedit%3Fusp%3Dsharing&v=3)
+[Vol. 4](https://docs.google.com/document/d/1CmCRtK_f4hgo4RHnpn1sE981lPSzp8PU7A5Yu4urgz0/edit)
 
 
 
