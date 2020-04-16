@@ -49,7 +49,7 @@ Dr. Schulz has now made it a 4-volume guide:
 
 [Vol. 1](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit#heading=h.zfqx8qqil1g1)
 
-[Vol. 2](https://docs.google.com/document/d/1SBT8auegsJCKCVMBHFLWaVo8rKbs0zsJc3dDVAqeADE/mobilebasic)
+[Vol. 2](https://docs.google.com/document/d/1SBT8auegsJCKCVMBHFLWaVo8rKbs0zsJc3dDVAqeADE/edit#heading=h.sx9qnelsso49)
 
 [Vol. 3](https://docs.google.com/document/d/1-eV7ClGCTgaqPug7u9ovE_s-U6J5s8Hzc3XAalkEgVE/edit)
 
