@@ -47,7 +47,7 @@ I believe these are the three most essential documents to read first:
 
 Dr. Schulz has now made it a 4-volume guide:
 
-[Vol. 1](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/mobilebasic)
+[Vol. 1](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit#heading=h.zfqx8qqil1g1)
 
 [Vol. 2](https://docs.google.com/document/d/1SBT8auegsJCKCVMBHFLWaVo8rKbs0zsJc3dDVAqeADE/mobilebasic)
 
