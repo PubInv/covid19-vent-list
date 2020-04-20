@@ -29,7 +29,7 @@ Our goal is not to rank projects, but to shed light on the state of readiness of
 identify things that must be addressed before they can be deployable. Although in times of crises one
 may compromise, ventilators are life-critical, last-resort devices that may do more harm than good if they
 do not meet stringent requirements. We have largely followed the guidelines of the 
-[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/874279/RMVS001_Rapidly_Manufactured_Ventilator_Specification__PDF.pdf) criteria set out by the UK.
+[Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/879382/RMVS001_v4.pdf) criteria set out by the UK.
 
 
 
