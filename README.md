@@ -387,7 +387,7 @@ Patients to Meet Disaster Surge](https://onlinelibrary.wiley.com/doi/pdf/10.1197
 [A short list of relevant ISO standards described](https://docs.google.com/spreadsheets/d/1WmPpG8hsu2mlgI_rFDZl2zZMAPZdp-kboGi0jfIsrI4/edit#gid=2126274196)
 
 
-
+The MIT E-Vent has [published](https://e-vent.mit.edu/mechanical/power-calculation/) extremely useful analysis of the power required to drive a ventilator base on a model of breathing.
 
 
 
