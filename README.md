@@ -77,7 +77,7 @@ I believe the following are the most essential documents to read first:
 8. [Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist), speaking with Johnny Lee also highly relevant.
 
 
-    # Videos
+# Videos
 
 Stephen Kramer has compiled and donated with a CC0 license, a [spreadsheet](https://github.com/PubInv/covid19-vent-list/blob/master/Covid19_Projects_from_YouTube.xlsx) with 85 projects that have YouTube videos. 
 
@@ -159,25 +159,22 @@ Discord group: https://discord.gg/zDYmR5
     This looks like one of the most advanced projects. Sadly it is somewhat closed at present, they do not actually offer designs,  
     though they say they will.
 
-2. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario]  
-    (https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
+2. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
 A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. 
     
 Note: This has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this 
           design. Nature of internal design not visible
 
-
-    3. [A low oxygen consumption pneumatic ventilator for emergency construction during a respiratory failure pandemic]
-       (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
+3. [A low oxygen consumption pneumatic ventilator for emergency construction during a respiratory failure pandemic](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
 
     
    ### Electric Blower Based Portable
 
-    1. Emergency Ventilator]:(https://digitalcommons.usu.edu/cgi/viewcontent.cgireferer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
+1. Emergency Ventilator]:(https://digitalcommons.usu.edu/cgi/viewcontent.cgireferer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
 
-    2. [The Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)
+2. [The Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)
        [Open Source Pandemic Ventilator (GoFundMe for above)](https://www.gofundme.com/f/open-source-pandemic-ventilator) 
 
        Online funding for development of an Open Source Ventilator. 
@@ -185,7 +182,7 @@ Note: This has a test-lung as part of the system, a very simple and important fe
        According to the photo provided it is a CPAP blower type. 
        Impressive document.
 
-    3. [Zephyr Ventilator](https://github.com/Julhh/Zephyr)
+3. [Zephyr Ventilator](https://github.com/Julhh/Zephyr)
        Open source mechanical ventilator with the goal of reaching MHRA spec. 
 
 #### Reports on Projects with No Designs
@@ -198,7 +195,7 @@ Note: This has a test-lung as part of the system, a very simple and important fe
 
    ### Ambubag based
 
-    1. [Jeff Ebin's Prototpye]
+1. [Jeff Ebin's Prototpye]
        (https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD) 
        and [his valuable document]
        (https://docs.google.com/document/d/1FNRe2GS7ShhJAJu6Ogdl0OAjS0oLJZ-lkPjT1DSAhpI/edit?ts=5e79401f).
