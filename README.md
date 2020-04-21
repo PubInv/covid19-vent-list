@@ -160,16 +160,16 @@ Discord group: https://discord.gg/zDYmR5
 
    ### Blower/Fan/Pump based
 
-    1. [MIT E-Vent](https://e-vent.mit.edu/) -- 
+1. [MIT E-Vent](https://e-vent.mit.edu/) -- 
     This looks like one of the most advanced projects. Sadly it is somewhat closed at present, they do not actually offer designs,  
     though they say they will.
 
-    2. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario]  
+2. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario]  
     (https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 
-    A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. 
+A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. 
     
-    Note: This has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this 
+Note: This has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this 
           design. Nature of internal design not visible
 
 
@@ -177,7 +177,7 @@ Discord group: https://discord.gg/zDYmR5
        (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
 
     
-   ###[Electric Blower Based Portable
+   ### Electric Blower Based Portable
 
     1. Emergency Ventilator]:(https://digitalcommons.usu.edu/cgi/viewcontent.cgireferer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
