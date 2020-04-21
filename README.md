@@ -44,8 +44,7 @@ Please open an issue, if you believe a project,
 
 I believe the following are the most essential documents to read first:
 
-1. [A brief for engineers, by a doctor, on hacking a ventilator for surge capacity in Covid19 patients.]      
-  (https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit?usp=sharing) 
+1. [A brief for engineers, by a doctor, on hacking a ventilator for surge capacity in Covid19 patients.](https://docs.google.com/document/d/1sdrKYQ0mDOu4bJum6Fx6piRutIJovo7UqFKYHHxUD5A/edit?usp=sharing) 
   Author: Dr. Eric Schulz, MBBS, FANZDA, an anesthetist/anesthesiologist from Australia.
 
   Dr. Schulz has now made it a 4-volume guide:
@@ -59,27 +58,23 @@ I believe the following are the most essential documents to read first:
   d. [Vol. 4](https://docs.google.com/document/d/1CmCRtK_f4hgo4RHnpn1sE981lPSzp8PU7A5Yu4urgz0/edit)
 
 
-2. [A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic]
-  (https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- 
+2. [A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- 
    Author: Robert L. Read, that's me. It's my best attempt at an introduction, although somewhat redundant with the above guide. Dr. 
    Schulz and I may attempt to harmonize them as we have time.
 
 3. [Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
-4. [Rapidly Manufactured Ventilator System]
-  (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf)
+4. [Rapidly Manufactured Ventilator System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf)
 
-5. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-    COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
+5. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
 
 6. [Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-
    providers/ventilator-supply-mitigation-strategies-letter-health-care-providers) (Explains reuse and adaptations of exisiting   
    devices.)
 
-7. [OSCMS - Ventilator Machines]
-   (https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
+7. [OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
 
-8. [Informal notes from a pulmonologist]
-   (https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist), speaking with Johnny Lee also highly relevant.
+8. [Informal notes from a pulmonologist](https://github.com/jcl5m1/ventilator/wiki/Notes-from-chatting-with-a-pulmonologist), speaking with Johnny Lee also highly relevant.
 
 
     # Videos
