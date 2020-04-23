@@ -66,7 +66,7 @@ I believe the following are the most essential documents to read first:
 
 1. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US)
 
-1. [Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers): Explains reuse and adaptations of exisiting devices.
+1. [Ventilator Supply Mitigation Strategies: Letter to Health Care Providers](https://www.fda.gov/medical-devices/letters-health-care-providers/ventilator-supply-mitigation-strategies-letter-health-care-providers): Explains reuse and adaptations of existing devices.
 
 1. [OSCMS - Ventilator Machines](https://docs.google.com/document/d/1lZWUwIpN2kINxURqP9Tczn2zYqpuVlBSDBypJt76a2Q/edit?usp=sharing)
 
@@ -109,7 +109,7 @@ This project is well-documented. It is not clear whether there is an active team
    * April 3rd: COVID19 ICU patients in Barcelona are using the IP version as of 3 April, video and photos are on a number of news sites.   Government agreement includes SEAT ramping up their manufacturing line to 400 units a day.  
    * April 6th: The government/consortium plan is to rollout wider testing to more hospitals in Catalunya this week, from 6 April. Human trials will continue this week.Recommend waiting to built version M until the documents are updated after feedback from clinical trails of version IP. Discord group: https://discord.gg/zDYmR5
 
-1. [Open Source Ventilator - OpenLung BVM Ventilator](https://opensourceventilator.ie/)[GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung): Fully open(GPL). Aims to adopt bag valve masks. Based on designs(not open)from Rice and MIT. Author(Trevor Smale)responded to email. Highly organized, but not buildable at the time of writing this.
+1. [Open Source Ventilator - OpenLung BVM Ventilator](https://opensourceventilator.ie/)[GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung): Fully open(GPL). Aims to adopt bag valve masks. Based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email. Highly organized, but not buildable at the time of writing this.
 
 1. [VentilAid](https://www.ventilaid.org/): Current prototype is pneumatic. 3D printed parts complete, but I can't find complete assembly instructions.They are working on a second electric prototype.
 
@@ -120,7 +120,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [MIT E-Vent](https://e-vent.mit.edu/) -- This looks like one of the most advanced projects. Sadly it is somewhat closed at present, they do not actually offer designs, though they say they will.
 
-1. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830): A well-developed device reported on by Canadian Broadcasting Company. Creator(Mr. John Strupat)may open source design soon. 
+1. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830): A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. 
   **Note**: This has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design. Nature of internal design not visible
 
 1. [A low oxygen consumption pneumatic ventilator for emergency construction during a respiratory failure pandemic](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
