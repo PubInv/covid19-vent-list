@@ -344,6 +344,8 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. The MIT E-Vent has [published](https://e-vent.mit.edu/mechanical/power-calculation/): Extremely useful analysis of the power required to drive a ventilator base on a model of breathing.
 
+1. [Differential Multiventilation](https://www.differentialmultivent.org/components/) Has a number of very usesful components needed to attempt supporting multiple patients on a single ventilator. Very useful as a source for 3D printed valves.
+
 # Basic Educational Resources
 
 1. Five videos on using Mechanical Ventilators:
