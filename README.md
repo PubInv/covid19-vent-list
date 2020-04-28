@@ -59,6 +59,8 @@ I believe the following are the most essential documents to read first:
 1. [A Super-simple Guide to Mechanical Ventilation For Open Source Engineers Designing Ventilators for the COVID-19 Pandemic](https://docs.google.com/document/d/1p-oYUv_6FadipV67g2O5yfnQvpdvZDm4WadYVubhoH4/edit?usp=sharing) -- 
    Author: Robert L. Read, that's me. It's my best attempt at an introduction, although somewhat redundant with the above guide. Dr. 
    Schulz and I may attempt to harmonize them as we have time.
+   
+1. [Modular Design of Pandemic Ventilators: How Do We Get There?](https://docs.google.com/document/d/1a5A7RKkY1qwI-skN0oNvwTFSHDIaYoWLQpEWUn0mXfU/edit?usp=sharing) Written with Jenny Filipetti, this is my personal breakdown of the problem into modules; it is a shared google doc that anyone can comment on.
 
 1. [Key Ventilation Specifications](https://e-vent.mit.edu/clinical/key-ventilation-specifications/)
 
