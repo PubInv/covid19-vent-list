@@ -216,6 +216,8 @@ This project is well-documented. It is not clear whether there is an active team
 1. [Ventilator Inline Sensor Package](https://hackaday.io/project/170622-visp-ventilator-inline-sensor-package)
 
 1. [COVID-19 Ventilator Validation Tests](https://github.com/PubInv/covid19-ventilator-validation-tests): Another [Public Invention](https://www.pubinv.org) project that provides, a spreadsheet with ~200 validation tests for clinical usability and suitability, based on: UK[RMVS](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf) standard.
+
+1. [A Venturi Tube Calculator](https://docs.google.com/spreadsheets/d/15T2E0_az5z4KQWNToqmD7rcZ1vJXbD5SSi3-eamiD4c/edit?usp=sharing) This is a personal project, but I don't know where else to put it. There is a world-wide shortage of flow-sensors right now; I've repackaged other people's math to make it easier to match the math to off-the-shelf flow sensors.
       
  **NOTE**: More test projects are needed! If you know of a test project, please make a pull request or enter an issue.
 
