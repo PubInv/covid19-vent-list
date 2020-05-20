@@ -350,6 +350,8 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [Differential Multiventilation](https://www.differentialmultivent.org/components/) Has a number of very usesful components needed to attempt supporting multiple patients on a single ventilator. Very useful as a source for 3D printed valves.
 
+1. [A Repair Database for Medical Parts](https://www.ifixit.com/Device/Medical_Device)
+
 # Basic Educational Resources
 
 1. Five videos on using Mechanical Ventilators:
