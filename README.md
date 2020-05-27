@@ -245,6 +245,8 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [VENTILATORS COLLABORATION NETWORK](https://soptechint.com/ventilators)
 
+1. [TECHNOLOGY EXCHANCE LAB](https://www.techxlab.org/solutions/categories/covid19/ventilator/)
+
 # Challenges and Calls for Papers
 
 1. [HardwareX: Special Issue on Open-Source COVID19 Medical Hardware](https://www.journals.elsevier.com/hardwarex/call-for-papers/special-issue-on-open-source-covid19-medical-hardware) 
