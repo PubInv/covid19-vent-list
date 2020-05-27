@@ -354,6 +354,8 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [A Repair Database for Medical Parts](https://www.ifixit.com/Device/Medical_Device)
 
+1. [Ventilator design ideas](https://www.txtpwr.com/Ventilator_Ideas_Andy_Firth_of_Letchworth.htm)
+
 # Basic Educational Resources
 
 1. Five videos on using Mechanical Ventilators:
