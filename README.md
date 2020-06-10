@@ -101,7 +101,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [Beatmungsgerät [Respirator]](https://devpost.com/software/diy-beatmungsgerat) - German language site, but appears to be in best state of openness, build reproducibility, monitoring and alarming. Reliability testing uncertain.
 
-1. [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator)-Probably best state of buildability at the time of writing this. The above link is to the repo. The inventor, Johnny Lee, is actively improving the system as of March 21st, and has called for assistance. It has been pressure-tested and has a [wiki](https://github.com/jcl5m1/ventilator/wiki). I recommend the community of makers and volunteers for open-source ventilator design offer Johnny Lee their full assistance.
+1. [Low-Cost Open Source Ventilator](https://github.com/jcl5m1/ventilator) - Probably best state of buildability at the time of writing this. The above link is to the repo. The inventor, Johnny Lee, is actively improving the system as of March 21st, and has called for assistance. It has been pressure-tested and has a [wiki](https://github.com/jcl5m1/ventilator/wiki). I recommend the community of makers and volunteers for open-source ventilator design offer Johnny Lee their full assistance.
 
 1. [Protofy Team OxyGEN](https://oxygen.protofy.xyz/): Project active as of March 16th, 2020. It has a [repo](https://github.com/ProtofyTeam/OxyGEN) of design documents.
    * March 16th: Limited control capability. 
@@ -109,7 +109,7 @@ This project is well-documented. It is not clear whether there is an active team
      * Version M, fully open source but the documents lag behind the version IP.  
      * Version IP, a closed consortium of SEAT, protofy.xyz and others. As per my understanding their documents will be filtered back into the ”M” documents. Version IP has passed animal trials and the Spanish government agreed hospital clinical trials with COVID19 patients.  
    * April 3rd: COVID19 ICU patients in Barcelona are using the IP version as of 3 April, video and photos are on a number of news sites.   Government agreement includes SEAT ramping up their manufacturing line to 400 units a day.  
-   * April 6th: The government/consortium plan is to rollout wider testing to more hospitals in Catalunya this week, from 6 April. Human trials will continue this week.Recommend waiting to built version M until the documents are updated after feedback from clinical trails of version IP. Discord group: https://discord.gg/zDYmR5
+   * April 6th: The government/consortium plan is to rollout wider testing to more hospitals in Catalunya this week, from 6 April. Human trials will continue this week. Recommend waiting to built version M until the documents are updated after feedback from clinical trails of version IP. Discord group: https://discord.gg/zDYmR5
 
 1. [Open Source Ventilator - OpenLung BVM Ventilator](https://opensourceventilator.ie/)[GitLab repo here](https://gitlab.com/open-source-ventilator/OpenLung): Fully open(GPL). Aims to adopt bag valve masks. Based on designs (not open) from Rice and MIT. Author (Trevor Smale) responded to email. Highly organized, but not buildable at the time of writing this.
 
@@ -131,7 +131,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [Emergency Ventilator](https://digitalcommons.usu.edu/cgi/viewcontent.cgireferer=https://www.google.com/&httpsredir=1&article=1016&context=spacegrant&fbclid=IwAR1EtJVcxXm82PjGWFCA0t7H_MxNVjuseAePRfxNORr9h4ZQLQ9sNdQjXhc)
 
-1. [Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)[Open Source Pandemic Ventilator(GoFundMe for above)](https://www.gofundme.com/f/open-source-pandemic-ventilator): Online funding  for development of an Open Source Ventilator.They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type. Impressive document.
+1. [Pandemic Ventilator](https://docs.google.com/document/d/1Dz7eMgXowFBtBA_0PKzfAXweHnNMbGlIAXPshCbI2Vk/edit?usp=sharing)[Open Source Pandemic Ventilator(GoFundMe for above)](https://www.gofundme.com/f/open-source-pandemic-ventilator): Online funding for development of an Open Source Ventilator. They provide a Google Docs project overview. According to the photo provided it is a CPAP blower type. Impressive document.
 
 1. [Zephyr Ventilator](https://github.com/Julhh/Zephyr): Open source mechanical ventilator with the goal of reaching MHRA spec. 
 
@@ -143,11 +143,11 @@ This project is well-documented. It is not clear whether there is an active team
 
 ### Ambubag based
 
-1. [Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD) and [his valuable document](https://docs.google.com/document/d/1FNRe2GS7ShhJAJu6Ogdl0OAjS0oLJZ-lkPjT1DSAhpI/edit?ts=5e79401f):Functioning Ambu-bag based model. Not obviously open with no published design, but possibly easy to copy.
+1. [Jeff Ebin's Prototpye](https://www.facebook.com/groups/670932227050506?view=permalink&id=675336579943404&scmts=scwspsdd&extid=MnVADGiqBuaYx9KD) and [his valuable document](https://docs.google.com/document/d/1FNRe2GS7ShhJAJu6Ogdl0OAjS0oLJZ-lkPjT1DSAhpI/edit?ts=5e79401f): Functioning Ambu-bag based model. Not obviously open with no published design, but possibly easy to copy.
 
 1. [The Pandemic Ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/): Since 2007. Uses a relatively old and expensive programmable logic controller, but a great starting place. Possibly well tested.
 
-1. [Hackaday Rex Ventilator V1](https://www.youtube.com/watch?v=pFnB-vOWQmU):An update of the previous project. No known open-source repo at present.
+1. [Hackaday Rex Ventilator V1](https://www.youtube.com/watch?v=pFnB-vOWQmU): An update of the previous project. No known open-source repo at present.
 
 1. [Simple device from www.POMO.cl](https://www.facebook.com/groups/670932227050506/permalink/675264606617268/?app=fbl): Nice video with possibly nice control. No obvious link to replicatable design documents.
 
@@ -177,9 +177,9 @@ This project is well-documented. It is not clear whether there is an active team
 ## Systems for Multiple Patients
 
 1. [Breathing Aid](https://www.breathing-aid.org/homeen):
-     * In several langauges, 
+     * In several languages, 
      * Appears to be a large pneumatic circuit design for ventilator to use simultaneously on multiple patients. 
-     * Seems to provide CPAP but not varaible bilevel ventilation. 
+     * Seems to provide CPAP but not variable bilevel ventilation. 
      * Might be good for people who don't require full ventilation in a field hospital.
 
 1. [Remote Ventilator Monitoring Project](http://www.ventilatormonitor.com/): An early project that presents a dashboard for monitoring multiple ventilators.
@@ -204,13 +204,13 @@ This project is well-documented. It is not clear whether there is an active team
 
 ## Related Therapeutic Projects
 
-1. [Ventialors SOS](https://www.ventilatorsos.com/): A Berkeley project to repurpos BiPAP and CPAP machines.
+1. [Ventialors SOS](https://www.ventilatorsos.com/): A Berkeley project to repurpose BiPAP and CPAP machines.
 
 ## Test Equipment/Projects
 
 1. [VentMon inline tester and monitor/alarm](https://github.com/PubInv/ventmon-ventilator-inline-test-monitor): A [Public Invention](https://www.pubinv.org) project seeks to,
     * build an inline flow monitor for testing ventilators and
-    * for monitoring them in actual critial care usage.
+    * for monitoring them in actual critical care usage.
  **Note**: This is my own attempt to build a test apparatus that meaasures clinical suitability as well as reliability. Project is just beginning.
 
 1. [Ventilator Inline Sensor Package](https://hackaday.io/project/170622-visp-ventilator-inline-sensor-package)
@@ -235,7 +235,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [#industryvirus](industryvsvirus.de): German (and German language?) based [LinkedIn](https://www.linkedin.com/groups/8918186/) group. There is also a [slack](https://wirvsvirus.slack.com/archives/G010J7X703G) group.
 
-1. [1 million Ventilators Project](https://1mventilators.com/):Large, active community. Best to contact through [Discord](https://discord.gg/g3kbSSb)
+1. [1 million Ventilators Project](https://1mventilators.com/): Large, active community. Best to contact through [Discord](https://discord.gg/g3kbSSb)
 
 1. [Global Ventilator & PPE DIY Collaboration](https://j.mp/C19diyProjects): An international group using WhatsApp for communication. May have projects soon.
 
@@ -274,7 +274,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 # Resources
 
-1. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US):This important document suggests that in the case of a severe epidemic, 
+1. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US): This important document suggests that in the case of a severe epidemic, 
      * the US will bottleneck on have enough people trained on ventilators, 
      * but also not have enough ventilators, or beds.
 
@@ -290,7 +290,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [Open Source Ventilator Project](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
 
-1. [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator): University of Florida, mostly specifications right now, but amoung the best set of quality specifications available:
+1. [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator): University of Florida, mostly specifications right now, but among the best set of quality specifications available:
 
 1. Overall Design Philosophy:[Open source for use worldwide and contributions from others worldwide](https://github.com/CSSALTlab/Open_Source_Ventilator.git)
 
@@ -350,7 +350,7 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. The MIT E-Vent has [published](https://e-vent.mit.edu/mechanical/power-calculation/): Extremely useful analysis of the power required to drive a ventilator base on a model of breathing.
 
-1. [Differential Multiventilation](https://www.differentialmultivent.org/components/) Has a number of very usesful components needed to attempt supporting multiple patients on a single ventilator. Very useful as a source for 3D printed valves.
+1. [Differential Multiventilation](https://www.differentialmultivent.org/components/): Has a number of very useful components needed to attempt supporting multiple patients on a single ventilator. Very useful as a source for 3D printed valves.
 
 1. [A Repair Database for Medical Parts](https://www.ifixit.com/Device/Medical_Device)
 
