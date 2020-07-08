@@ -86,11 +86,8 @@ Stephen Kramer has compiled and donated with a CC0 license, a [spreadsheet](http
 **Background**: These two projects are, in our humble opinion, the closest to being actually buildable by a third party. 
 
 **Word of caution**: 
-  * We do not believe they are ready to be built or manufactured in quantity, and have only had the lightest of testing. 
-  * Furthermore, the COVID-19 disease requires critical care in an ICU; 
-  * These designs may be excellent for patients with other diseases, such as acute trauma. 
-  * However, some medical professionals assert that ventilators with more features are needed in the case of, Acute Respiratory Distress    Syndrome (ARDS), a common complication of COVID-19, where patients may require ventilation for many days. 
-  * As far as can be determined, these designs are in a poor state of readiness for multi-day treatment. 
+  * Our analyses of these project is now badly out of date.
+ 
 
 1. [AmboVent](https://1nn0v8ter.rocks/AmboVent-1690-108): A well-tested design by a large team from the Israeli Air Force. Definitely one to watch. This is the number one low-cost, easily built project since they released their [plans and code](https://github.com/AmboVent/AmboVent) on April 2nd! 
 
@@ -117,15 +114,6 @@ This project is well-documented. It is not clear whether there is an active team
 
 1. [Mechanical Ventilator Milano (MVM):A Novel Mechanical Ventilator Designed for Mass Scale Production in Response to the COVID-19 Pandemics](https://arxiv.org/pdf/2003.10405.pdf)
 
-# Projects Not Yet Buildable (March 21st, 2020)
-### Blower/Fan/Pump based
-
-1. [MIT E-Vent](https://e-vent.mit.edu/) -- This looks like one of the most advanced projects. Sadly it is somewhat closed at present, they do not actually offer designs, though they say they will.
-
-1. ['Pandemic ventilator' could offer solution in potential 'worst case' coronavirus scenario](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830): A well-developed device reported on by Canadian Broadcasting Company. Creator (Mr. John Strupat) may open source design soon. 
-  **Note**: This has a test-lung as part of the system, a very simple and important feature reproducible elsewhere even without this design. Nature of internal design not visible
-
-1. [A low oxygen consumption pneumatic ventilator for emergency construction during a respiratory failure pandemic](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2009.06207.x)
 
  ### Electric Blower Based Portable
 
@@ -273,6 +261,8 @@ This project is well-documented. It is not clear whether there is an active team
 [COVID-19 Solutions Fund](https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/)
 
 # Resources
+
+1. [Initiatives around the world](https://opensourceventilator.org/#initiatives) A separate list of initiatives, somewhat different than the one we maintain.
 
 1. [U.S. ICU Resource Availability for COVID-19](https://sccm.org/getattachment/Blog/March-2020/United-States-Resource-Availability-for-COVID-19/United-States-Resource-Availability-for-COVID-19.pdf?lang=en-US):This important document suggests that in the case of a severe epidemic, 
      * the US will bottleneck on have enough people trained on ventilators, 
