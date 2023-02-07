@@ -1,4 +1,4 @@
-# COVID-19 Ventilator Projects and Resources with FAQs
+# COVID-19 Ventilator Projects and Resources with FAQs -- NO LONGER ACTIVELY MAINTAINED AS OF 2023
 
 An analyzed list of projects to make emergency ventilators in response to COVID-19, focusing on free-libre open source.
 
